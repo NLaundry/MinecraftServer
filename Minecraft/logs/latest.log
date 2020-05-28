@@ -1,0 +1,170 @@
+[13:10:43] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:10:43] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:10:43] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:10:43] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:10:43] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:10:43] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[13:10:43] [Server thread/INFO]: Loading properties
+[13:10:43] [Server thread/INFO]: Default game type: SURVIVAL
+[13:10:43] [Server thread/INFO]: Generating keypair
+[13:10:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:10:44] [Server thread/INFO]: Using epoll channel type
+[13:10:44] [Server thread/INFO]: Preparing level "world"
+[13:10:44] [Server thread/INFO]: Reloading ResourceManager: Default
+[13:10:48] [Server thread/INFO]: Loaded 6 recipes
+[13:10:48] [Server thread/INFO]: Loaded 825 advancements
+[13:10:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:10:49] [Server thread/INFO]: Preparing spawn area: 0%
+[13:10:49] [Server thread/INFO]: Preparing spawn area: 0%
+[13:10:49] [Server thread/INFO]: Time elapsed: 839 ms
+[13:10:49] [Server thread/INFO]: Done (4.945s)! For help, type "help"
+[13:13:09] [User Authenticator #1/INFO]: UUID of player KILLROYIII is 8224ac11-50ac-4d64-a4fe-f291e6ce8e17
+[13:13:09] [Server thread/INFO]: KILLROYIII[/174.117.47.174:52044] logged in with entity id 144 at (-922.3344825040994, 69.0, 122.69999998807907)
+[13:13:09] [Server thread/INFO]: KILLROYIII joined the game
+[13:22:21] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/2029, l='world', x=-945.31, y=67.00, z=181.83]
+[13:22:37] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/2069, l='world', x=-950.39, y=60.00, z=93.35]
+[13:27:04] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/2761, l='world', x=-945.64, y=67.00, z=185.71]
+[13:27:34] [Server thread/WARN]: KILLROYIII moved wrongly!
+[13:35:54] [User Authenticator #2/INFO]: UUID of player kxanxc is fc95f6fe-e3cb-4120-a357-06f758950e52
+[13:35:54] [Server thread/INFO]: kxanxc[/70.48.29.206:62718] logged in with entity id 4346 at (-763.1986601479977, 71.0, -4.615398039975454)
+[13:35:54] [Server thread/INFO]: kxanxc joined the game
+[13:36:04] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/4556, l='world', x=-946.14, y=67.00, z=182.35]
+[13:40:36] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/6059, l='world', x=-946.26, y=64.80, z=92.86]
+[13:44:43] [User Authenticator #3/INFO]: UUID of player MCCreep is bf286c91-8e59-469f-b1db-7783f7c9cfbc
+[13:44:43] [Server thread/INFO]: MCCreep[/99.227.111.229:60740] logged in with entity id 7322 at (-896.9784623011518, 68.0, 219.3521446031533)
+[13:44:43] [Server thread/INFO]: MCCreep joined the game
+[13:44:52] [Server thread/INFO]: <KILLROYIII> BEARDO :D - Hammer
+[13:44:59] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/7424, l='world', x=-945.26, y=67.00, z=183.90]
+[13:44:59] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/7424, l='world', x=-945.26, y=67.00, z=183.90]
+[13:45:01] [Server thread/INFO]: <kxanxc> Hello Mr. Laundry
+[13:45:09] [Server thread/INFO]: <MCCreep> lunch break.... time to craft
+[13:45:17] [Server thread/INFO]: <KILLROYIII> heheh
+[13:45:24] [Server thread/INFO]: <kxanxc> you've got the right idea
+[13:45:24] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/7499, l='world', x=-949.78, y=60.00, z=91.86]
+[13:48:39] [Server thread/INFO]: <kxanxc> Mr. Laundry may I take some bamboo please
+[13:49:09] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/8637, l='world', x=-946.19, y=67.00, z=185.89]
+[13:49:09] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/8637, l='world', x=-946.19, y=67.00, z=185.89]
+[13:49:09] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/8637, l='world', x=-946.19, y=67.00, z=185.89]
+[13:49:16] [Server thread/INFO]: <MCCreep> hi
+[13:49:18] [Server thread/INFO]: <kxanxc> hi
+[13:49:25] [Server thread/INFO]: <kxanxc> may i have some bamboo pls
+[13:49:43] [Server thread/INFO]: <MCCreep> go ahead
+[13:49:48] [Server thread/INFO]: <kxanxc> thank you!!
+[13:51:55] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/9498, l='world', x=-948.16, y=67.00, z=183.15]
+[13:51:55] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/9498, l='world', x=-948.16, y=67.00, z=183.15]
+[13:54:23] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/10393, l='world', x=-945.57, y=67.00, z=185.17]
+[13:54:56] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/10521, l='world', x=-950.21, y=67.00, z=182.30]
+[13:57:18] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/11500, l='world', x=-948.56, y=67.00, z=181.83]
+[13:57:30] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/11557, l='world', x=-950.80, y=60.00, z=91.41]
+[14:03:49] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/13341, l='world', x=-951.17, y=67.00, z=183.29]
+[14:04:00] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/13427, l='world', x=-944.83, y=67.00, z=183.60]
+[14:06:37] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/14337, l='world', x=-950.72, y=67.00, z=186.17]
+[14:09:11] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/15172, l='world', x=-950.71, y=67.00, z=184.74]
+[14:09:11] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/15172, l='world', x=-950.71, y=67.00, z=184.74]
+[14:09:15] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/15200, l='world', x=-950.70, y=67.00, z=185.20]
+[14:09:15] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/15200, l='world', x=-950.70, y=67.00, z=185.20]
+[14:10:51] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/15608, l='world', x=-947.90, y=67.00, z=182.34]
+[14:10:51] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/15608, l='world', x=-947.90, y=67.00, z=182.34]
+[14:12:29] [Server thread/INFO]: Villager axw['Villager'/470, l='world', x=-824.50, y=74.00, z=32.99] died, message: 'Villager was slain by Husk'
+[14:12:40] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/16069, l='world', x=-944.83, y=67.00, z=184.90]
+[14:12:40] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/16069, l='world', x=-944.83, y=67.00, z=184.90]
+[14:13:11] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/16271, l='world', x=-948.79, y=67.00, z=182.36]
+[14:13:11] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/16271, l='world', x=-948.79, y=67.00, z=182.36]
+[14:16:37] [Server thread/INFO]: KILLROYIII lost connection: Disconnected
+[14:16:37] [Server thread/INFO]: KILLROYIII left the game
+[14:29:09] [Server thread/INFO]: <kxanxc> sleep pls
+[14:32:24] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/22920, l='world', x=-950.18, y=67.00, z=184.58]
+[14:32:45] [Server thread/INFO]: <kxanxc> how's your day been Mr. Laundry?
+[14:35:21] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/23884, l='world', x=-945.25, y=67.00, z=185.85]
+[14:37:57] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/24621, l='world', x=-949.59, y=67.00, z=181.83]
+[14:38:14] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/24678, l='world', x=-946.77, y=67.00, z=183.70]
+[14:38:29] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/24729, l='world', x=-947.06, y=67.00, z=183.21]
+[14:44:06] [Server thread/INFO]: <MCCreep> its work so could be better, but crafting is fun..
+[14:45:05] [Server thread/INFO]: <MCCreep> should put time stamp on chat... are you guys sleeping
+[14:45:15] [Server thread/INFO]: <kxanxc> yea we are
+[14:45:24] [Server thread/INFO]: <MCCreep> some ones not
+[14:46:28] [Server thread/INFO]: <kxanxc> crafting can for sure make a work day less boring LOL
+[14:49:41] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/27805, l='world', x=-951.17, y=67.00, z=181.83]
+[14:52:02] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/28435, l='world', x=-947.57, y=67.00, z=184.61]
+[14:58:30] [Server thread/INFO]: MCCreep lost connection: Disconnected
+[14:58:30] [Server thread/INFO]: MCCreep left the game
+[14:58:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@5e08b832[id=<null>,name=MCCreep,properties={},legacy=false] (/99.227.111.229:62327) lost connection: Disconnected
+[15:07:46] [Server thread/INFO]: com.mojang.authlib.GameProfile@15a29a43[id=<null>,name=MCCreep,properties={},legacy=false] (/99.227.111.229:62618) lost connection: Disconnected
+[15:12:03] [User Authenticator #4/INFO]: UUID of player MCCreep is bf286c91-8e59-469f-b1db-7783f7c9cfbc
+[15:12:03] [Server thread/INFO]: MCCreep[/99.227.111.229:62805] logged in with entity id 32422 at (-897.6100330040821, 68.0, 227.91543235011468)
+[15:12:03] [Server thread/INFO]: MCCreep joined the game
+[15:16:15] [User Authenticator #5/INFO]: UUID of player stealthGiraffe is 9b6c58c4-da38-458e-9f19-910cc27a5d21
+[15:16:15] [Server thread/INFO]: stealthGiraffe[/99.225.193.61:48614] logged in with entity id 33880 at (-722.4736856789007, 99.0, -136.5142302268672)
+[15:16:15] [Server thread/INFO]: stealthGiraffe joined the game
+[15:17:11] [Server thread/INFO]: stealthGiraffe lost connection: Disconnected
+[15:17:11] [Server thread/INFO]: stealthGiraffe left the game
+[15:18:07] [Server thread/INFO]: <kxanxc> sleep pls
+[15:18:38] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/34627, l='world', x=-947.53, y=67.00, z=183.70]
+[15:20:47] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/35115, l='world', x=-949.81, y=67.00, z=185.56]
+[15:29:02] [Server thread/INFO]: <MCCreep> sleeping
+[15:29:13] [Server thread/INFO]: <kxanxc> ok gonna sleep now
+[15:40:05] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/41195, l='world', x=-945.22, y=67.00, z=182.26]
+[15:41:21] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/41477, l='world', x=-944.83, y=67.00, z=182.23]
+[15:44:37] [Server thread/INFO]: <kxanxc> sleeping
+[15:45:30] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/42539, l='world', x=-949.19, y=67.00, z=185.61]
+[15:57:10] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/46113, l='world', x=-950.75, y=67.00, z=183.67]
+[16:01:28] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/47312, l='world', x=-950.72, y=67.00, z=182.26]
+[16:04:06] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/47893, l='world', x=-948.05, y=67.00, z=183.57]
+[16:06:20] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/48429, l='world', x=-948.01, y=67.00, z=182.28]
+[16:07:55] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/48765, l='world', x=-945.66, y=67.00, z=184.32]
+[16:07:58] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/48774, l='world', x=-948.98, y=67.00, z=186.17]
+[16:10:31] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/49630, l='world', x=-947.66, y=67.00, z=182.27]
+[16:13:31] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/50276, l='world', x=-950.19, y=67.00, z=184.57]
+[16:17:31] [Server thread/INFO]: MCCreep lost connection: Disconnected
+[16:17:31] [Server thread/INFO]: MCCreep left the game
+[16:26:09] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/53128, l='world', x=-950.41, y=60.00, z=93.45]
+[16:29:18] [Server thread/INFO]: com.mojang.authlib.GameProfile@6a51fac2[id=<null>,name=MCCreep,properties={},legacy=false] (/99.227.111.229:50439) lost connection: Disconnected
+[16:31:13] [Server thread/INFO]: com.mojang.authlib.GameProfile@7f263977[id=<null>,name=MCCreep,properties={},legacy=false] (/99.227.111.229:50652) lost connection: Disconnected
+[16:31:42] [User Authenticator #6/INFO]: UUID of player MCCreep is bf286c91-8e59-469f-b1db-7783f7c9cfbc
+[16:31:43] [Server thread/INFO]: MCCreep[/99.227.111.229:50733] logged in with entity id 53888 at (-484.8070184820532, 68.0, 883.3991081422513)
+[16:31:43] [Server thread/INFO]: MCCreep joined the game
+[16:32:06] [Server thread/INFO]: <kxanxc> Hi Mr. Laundry
+[16:32:16] [Server thread/INFO]: <kxanxc> we shall be sleeping through this night
+[16:45:33] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/58261, l='world', x=-946.39, y=67.00, z=185.42]
+[16:48:37] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/58989, l='world', x=-950.30, y=67.00, z=186.17]
+[16:49:37] [User Authenticator #7/INFO]: UUID of player KILLROYIII is 8224ac11-50ac-4d64-a4fe-f291e6ce8e17
+[16:49:37] [Server thread/INFO]: KILLROYIII[/174.117.47.174:52527] logged in with entity id 59353 at (-950.6999999880791, 75.0, 129.088391739255)
+[16:49:37] [Server thread/INFO]: KILLROYIII joined the game
+[16:51:22] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/60010, l='world', x=-947.13, y=61.00, z=90.21]
+[16:53:42] [User Authenticator #8/INFO]: UUID of player KushAndADream is 4fdbeb10-beb6-4d11-b9b0-5f7576355fbc
+[16:53:42] [Server thread/INFO]: KushAndADream[/99.227.240.38:52572] logged in with entity id 60816 at (-2534.2148494552093, 62.073264739703426, 163.27127909116774)
+[16:53:42] [Server thread/INFO]: KushAndADream joined the game
+[16:54:26] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/61925, l='world', x=-949.07, y=67.00, z=182.31]
+[16:56:52] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/65460, l='world', x=-946.39, y=67.00, z=185.42]
+[16:56:52] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/65460, l='world', x=-946.39, y=67.00, z=185.42]
+[16:57:08] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/66058, l='world', x=-950.43, y=60.00, z=93.76]
+[16:58:00] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/67403, l='world', x=-950.57, y=60.00, z=93.20]
+[16:59:20] [User Authenticator #9/INFO]: UUID of player stealthGiraffe is 9b6c58c4-da38-458e-9f19-910cc27a5d21
+[16:59:20] [Server thread/INFO]: stealthGiraffe[/192.168.1.4:48546] logged in with entity id 68778 at (-723.6236253752327, 101.0, -126.80344789182419)
+[16:59:20] [Server thread/INFO]: stealthGiraffe joined the game
+[17:00:06] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/70272, l='world', x=-951.17, y=67.00, z=181.83]
+[17:00:50] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/71002, l='world', x=-949.17, y=67.00, z=182.85]
+[17:02:42] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/71754, l='world', x=-946.23, y=67.00, z=182.71]
+[17:02:42] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/71754, l='world', x=-946.23, y=67.00, z=182.71]
+[17:03:06] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/71893, l='world', x=-945.99, y=67.00, z=183.25]
+[17:03:06] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/71893, l='world', x=-945.99, y=67.00, z=183.25]
+[17:03:22] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/71986, l='world', x=-949.05, y=67.00, z=181.83]
+[17:03:22] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/71986, l='world', x=-949.05, y=67.00, z=181.83]
+[17:03:47] [Server thread/INFO]: stealthGiraffe lost connection: Disconnected
+[17:03:47] [Server thread/INFO]: stealthGiraffe left the game
+[17:03:59] [Server thread/INFO]: <kxanxc> eli bby
+[17:04:02] [Server thread/INFO]: <kxanxc> come here
+[17:04:03] [Server thread/INFO]: <KILLROYIII> oy
+[17:04:15] [Server thread/INFO]: <kxanxc> i made a thing
+[17:04:20] [Server thread/INFO]: <kxanxc> you must see
+[17:04:33] [Server thread/INFO]: <KILLROYIII> 1 sec
+[17:04:40] [Server thread/INFO]: <KILLROYIII> gotta store my diamonds
+[17:04:44] [Server thread/INFO]: <kxanxc> kk
+[17:04:49] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/72482, l='world', x=-948.14, y=67.00, z=181.83]
+[17:06:07] [Server thread/INFO]: <KILLROYIII> OH
+[17:06:20] [Server thread/INFO]: <kxanxc> u saw it
+[17:06:27] [Server thread/INFO]: <kxanxc> i did a thing
+[17:06:39] [Server thread/INFO]: <KILLROYIII> LMAO
+[17:07:05] [Server thread/INFO]: <KILLROYIII> v nice
+[17:07:20] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/73358, l='world', x=-946.46, y=67.00, z=183.66]
+[17:07:20] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/73359, l='world', x=-949.52, y=67.00, z=182.27]
