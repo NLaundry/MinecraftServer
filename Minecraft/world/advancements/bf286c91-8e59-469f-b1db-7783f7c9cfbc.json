@@ -467,6 +467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2020-05-30 23:53:49 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-05-26 16:48:41 -0400"
@@ -609,13 +615,17 @@
     "criteria": {
       "minecraft:pillager": "2020-05-27 22:53:58 -0400",
       "minecraft:skeleton": "2020-05-25 15:56:29 -0400",
+      "minecraft:zombie_pigman": "2020-05-30 21:23:04 -0400",
       "minecraft:spider": "2020-05-25 23:01:40 -0400",
       "minecraft:creeper": "2020-05-26 16:34:58 -0400",
+      "minecraft:slime": "2020-05-30 23:59:26 -0400",
       "minecraft:witch": "2020-05-28 17:36:14 -0400",
       "minecraft:husk": "2020-05-26 16:07:22 -0400",
       "minecraft:cave_spider": "2020-05-29 14:26:56 -0400",
+      "minecraft:enderman": "2020-05-30 23:20:26 -0400",
       "minecraft:zombie": "2020-05-25 15:14:38 -0400",
-      "minecraft:drowned": "2020-05-27 19:05:50 -0400"
+      "minecraft:drowned": "2020-05-27 19:05:50 -0400",
+      "minecraft:zombie_villager": "2020-05-30 16:54:27 -0400"
     },
     "done": false
   },
@@ -1189,6 +1199,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2020-05-30 23:59:33 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2020-05-25 15:15:23 -0400"
@@ -1374,6 +1390,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2020-05-30 23:53:49 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2020-05-29 15:08:23 -0400"
@@ -1536,6 +1558,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2020-05-30 23:53:49 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2020-05-25 15:31:52 -0400"
@@ -1611,6 +1639,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2020-05-25 15:52:05 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2020-05-30 23:53:49 -0400"
     },
     "done": true
   },
@@ -1969,7 +2003,8 @@
     "criteria": {
       "minecraft:sheep": "2020-05-25 16:15:43 -0400",
       "minecraft:cow": "2020-05-27 22:40:45 -0400",
-      "minecraft:chicken": "2020-05-25 16:50:06 -0400"
+      "minecraft:chicken": "2020-05-25 16:50:06 -0400",
+      "minecraft:horse": "2020-05-30 19:46:22 -0400"
     },
     "done": false
   },
@@ -2279,6 +2314,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2020-05-30 23:59:33 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2020-05-26 16:48:41 -0400"
@@ -2336,6 +2377,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2020-05-25 15:12:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_the_recipe": "2020-05-30 17:29:24 -0400"
     },
     "done": true
   },
@@ -2597,6 +2644,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2020-05-30 23:59:33 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2020-05-25 15:14:46 -0400"
@@ -2648,6 +2701,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2020-05-28 22:58:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2020-05-30 02:50:14 -0400"
     },
     "done": true
   },
@@ -2768,6 +2827,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2020-05-25 15:12:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2020-05-30 17:55:06 -0400"
     },
     "done": true
   },
@@ -2894,6 +2959,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-05-26 16:48:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2020-05-30 23:53:49 -0400"
     },
     "done": true
   },

@@ -686,6 +686,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2020-05-30 16:01:37 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2020-05-28 03:57:00 -0400"
@@ -1251,6 +1257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2020-05-30 16:01:37 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2020-05-25 18:08:17 -0400"
@@ -1600,13 +1612,20 @@
       "apple": "2020-05-25 15:02:43 -0400",
       "potato": "2020-05-27 02:25:19 -0400",
       "bread": "2020-05-25 15:04:46 -0400",
-      "rotten_flesh": "2020-05-25 17:04:00 -0400"
+      "rotten_flesh": "2020-05-25 17:04:00 -0400",
+      "cooked_chicken": "2020-05-30 17:08:43 -0400"
     },
     "done": false
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2020-05-25 14:41:48 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2020-05-30 16:01:37 -0400"
     },
     "done": true
   },
