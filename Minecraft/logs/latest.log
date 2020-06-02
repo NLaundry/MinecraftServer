@@ -1,27 +1,20 @@
-[00:00:08] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/316284, l='world', x=-749.17, y=94.00, z=-169.83]
-[00:00:17] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/316348, l='world', x=-743.83, y=94.00, z=-172.19]
-[00:00:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
-[00:00:44] [Server thread/INFO]: ThrockmortonXD lost connection: Disconnected
-[00:00:44] [Server thread/INFO]: ThrockmortonXD left the game
-[00:00:51] [User Authenticator #35/INFO]: UUID of player stealthGiraffe is 9b6c58c4-da38-458e-9f19-910cc27a5d21
-[00:00:51] [Server thread/INFO]: stealthGiraffe[/192.168.1.4:46896] logged in with entity id 316657 at (-710.92983059066, 71.0, -35.740575084385476)
-[00:00:51] [Server thread/INFO]: stealthGiraffe joined the game
-[00:01:00] [Server thread/INFO]: <stealthGiraffe> gotta reboot pc
-[00:01:04] [Server thread/INFO]: <stealthGiraffe> poor guy is struggling
-[00:01:08] [Server thread/INFO]: <stealthGiraffe> also gonna backup the world
-[00:01:11] [Server thread/INFO]: <stealthGiraffe> restarting
-[00:01:15] [Server thread/INFO]: stealthGiraffe lost connection: Disconnected
-[00:01:15] [Server thread/INFO]: stealthGiraffe left the game
-[00:01:40] [Server thread/INFO]: Stopping the server
-[00:01:40] [Server thread/INFO]: Stopping server
-[00:01:40] [Server thread/INFO]: Saving players
-[00:01:40] [Server thread/INFO]: Saving worlds
-[00:01:40] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[00:01:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:01:40] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[00:01:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:01:40] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[00:01:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:01:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:01:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:01:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:10:57] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[06:10:57] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:10:57] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:10:57] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[06:10:57] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:10:57] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[06:10:57] [Server thread/INFO]: Loading properties
+[06:10:57] [Server thread/INFO]: Default game type: SURVIVAL
+[06:10:57] [Server thread/INFO]: Generating keypair
+[06:10:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[06:10:57] [Server thread/INFO]: Using epoll channel type
+[06:10:57] [Server thread/INFO]: Preparing level "world"
+[06:10:57] [Server thread/INFO]: Reloading ResourceManager: Default
+[06:11:03] [Server thread/INFO]: Loaded 6 recipes
+[06:11:03] [Server thread/INFO]: Loaded 825 advancements
+[06:11:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[06:11:04] [Server thread/INFO]: Preparing spawn area: 0%
+[06:11:04] [Server thread/INFO]: Preparing spawn area: 0%
+[06:11:04] [Server thread/INFO]: Time elapsed: 786 ms
+[06:11:04] [Server thread/INFO]: Done (6.989s)! For help, type "help"
