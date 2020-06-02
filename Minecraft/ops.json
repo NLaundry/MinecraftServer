@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "9b6c58c4-da38-458e-9f19-910cc27a5d21",
+    "name": "stealthGiraffe",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

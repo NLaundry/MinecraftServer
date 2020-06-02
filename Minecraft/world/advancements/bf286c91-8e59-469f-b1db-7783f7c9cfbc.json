@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2020-06-01 13:28:25 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2020-05-25 15:15:20 -0400"
@@ -353,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2020-06-01 22:50:15 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2020-05-25 15:52:05 -0400"
@@ -374,6 +386,12 @@
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2020-05-28 01:54:33 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_green_dye": "2020-06-01 22:48:12 -0400"
     },
     "done": true
   },
@@ -461,6 +479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2020-06-01 23:54:20 -0400"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2020-05-27 00:18:11 -0400"
@@ -470,6 +494,12 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2020-05-29 21:21:48 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2020-06-01 14:43:28 -0400"
     },
     "done": true
   },
@@ -536,6 +566,12 @@
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_rabbit": "2020-05-25 16:00:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2020-06-01 19:33:04 -0400"
     },
     "done": true
   },
@@ -638,12 +674,16 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2020-05-27 22:53:58 -0400",
+      "minecraft:blaze": "2020-06-01 14:55:28 -0400",
       "minecraft:skeleton": "2020-05-25 15:56:29 -0400",
       "minecraft:zombie_pigman": "2020-05-30 21:23:04 -0400",
+      "minecraft:ghast": "2020-06-01 13:05:58 -0400",
+      "minecraft:magma_cube": "2020-06-01 13:17:05 -0400",
       "minecraft:spider": "2020-05-25 23:01:40 -0400",
       "minecraft:creeper": "2020-05-26 16:34:58 -0400",
       "minecraft:slime": "2020-05-30 23:59:26 -0400",
       "minecraft:witch": "2020-05-28 17:36:14 -0400",
+      "minecraft:wither_skeleton": "2020-06-01 17:20:54 -0400",
       "minecraft:husk": "2020-05-26 16:07:22 -0400",
       "minecraft:cave_spider": "2020-05-29 14:26:56 -0400",
       "minecraft:enderman": "2020-05-30 23:20:26 -0400",
@@ -652,6 +692,12 @@
       "minecraft:zombie_villager": "2020-05-30 16:54:27 -0400"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2020-06-01 16:23:37 -0400"
+    },
+    "done": true
   },
   "minecraft:story/enchant_item": {
     "criteria": {
@@ -803,6 +849,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2020-06-01 23:54:13 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2020-05-27 19:03:25 -0400"
@@ -899,9 +951,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_green_dye": "2020-06-01 22:48:12 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2020-05-27 20:18:42 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2020-06-01 16:12:42 -0400"
     },
     "done": true
   },
@@ -1043,6 +1107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2020-06-01 22:50:15 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2020-05-25 15:11:24 -0400"
@@ -1079,6 +1149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2020-06-01 13:20:51 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_log": "2020-05-27 19:16:12 -0400"
@@ -1094,6 +1170,12 @@
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
       "has_red_wool": "2020-05-31 22:17:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2020-06-01 22:50:15 -0400"
     },
     "done": true
   },
@@ -1274,6 +1356,18 @@
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2020-05-25 15:15:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2020-06-01 16:23:37 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2020-06-01 22:49:53 -0400"
     },
     "done": true
   },
@@ -1458,6 +1552,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2020-06-01 23:54:13 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2020-05-27 19:03:25 -0400"
@@ -1602,6 +1702,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2020-06-01 16:23:37 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_black_dye": "2020-05-31 22:44:06 -0400"
@@ -1632,6 +1738,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2020-06-01 22:49:53 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet": {
+    "criteria": {
+      "has_lime_wool": "2020-06-01 23:46:36 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2020-05-27 22:19:47 -0400"
@@ -1653,6 +1771,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-05-25 16:32:58 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_banner": {
+    "criteria": {
+      "has_lime_wool": "2020-06-01 23:46:36 -0400"
     },
     "done": true
   },
@@ -1866,6 +1990,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2020-06-01 14:35:33 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2020-05-25 15:43:50 -0400"
@@ -2028,6 +2158,12 @@
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2020-05-25 15:13:05 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed": {
+    "criteria": {
+      "has_lime_wool": "2020-06-01 23:46:36 -0400"
     },
     "done": true
   },
@@ -2292,6 +2428,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2020-06-01 14:35:33 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2020-05-25 16:05:34 -0400"
@@ -2343,6 +2485,12 @@
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2020-05-29 13:53:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2020-06-01 13:20:51 -0400"
     },
     "done": true
   },
@@ -2439,6 +2587,12 @@
   "minecraft:recipes/decorations/slime_block": {
     "criteria": {
       "has_slime_ball": "2020-05-30 23:59:33 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2020-06-01 22:49:53 -0400"
     },
     "done": true
   },
@@ -2619,6 +2773,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2020-05-25 15:43:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2020-06-01 14:51:25 -0400"
     },
     "done": true
   },
@@ -2862,6 +3022,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2020-06-01 16:12:42 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2020-05-27 20:18:42 -0400"
@@ -2913,6 +3079,12 @@
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2020-05-29 22:13:08 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2020-06-01 16:12:42 -0400"
     },
     "done": true
   },
