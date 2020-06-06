@@ -1202,6 +1202,7 @@
       "minecraft:jungle": "2020-05-27 17:57:27 -0400",
       "minecraft:jungle_hills": "2020-05-27 17:57:47 -0400",
       "minecraft:deep_lukewarm_ocean": "2020-05-27 20:23:20 -0400",
+      "minecraft:badlands": "2020-06-04 15:09:09 -0400",
       "minecraft:savanna_plateau": "2020-05-25 15:08:20 -0400",
       "minecraft:beach": "2020-05-27 18:20:47 -0400",
       "minecraft:river": "2020-05-25 14:55:21 -0400",
@@ -1650,6 +1651,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2020-06-04 00:00:07 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-05-26 16:41:44 -0400"
@@ -1865,6 +1872,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2020-05-25 15:03:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2020-06-04 00:00:07 -0400"
     },
     "done": true
   },
@@ -2481,6 +2494,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2020-05-25 14:39:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2020-06-04 00:00:07 -0400"
     },
     "done": true
   },
