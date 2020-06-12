@@ -1,37 +1,34 @@
-[14:36:43] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:36:43] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:36:43] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:36:43] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:36:43] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:36:43] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[14:36:43] [Server thread/INFO]: Loading properties
-[14:36:43] [Server thread/INFO]: Default game type: SURVIVAL
-[14:36:43] [Server thread/INFO]: Generating keypair
-[14:36:43] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:36:43] [Server thread/INFO]: Using default channel type
-[14:36:43] [Server thread/INFO]: Preparing level "world"
-[14:36:43] [Server thread/INFO]: Reloading ResourceManager: Default
-[14:36:44] [Server thread/INFO]: Loaded 6 recipes
-[14:36:44] [Server thread/INFO]: Loaded 825 advancements
-[14:36:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:36:45] [Server thread/INFO]: Preparing spawn area: 0%
-[14:36:45] [Server thread/INFO]: Preparing spawn area: 0%
-[14:36:47] [Server-Worker-6/INFO]: Preparing spawn area: 0%
-[14:36:47] [Server-Worker-7/INFO]: Preparing spawn area: 0%
-[14:36:47] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[14:36:47] [Server thread/INFO]: Preparing spawn area: 98%
-[14:36:47] [Server thread/INFO]: Time elapsed: 2503 ms
-[14:36:47] [Server thread/INFO]: Done (3.556s)! For help, type "help"
-[14:48:31] [Server thread/INFO]: Stopping the server
-[14:48:31] [Server thread/INFO]: Stopping server
-[14:48:31] [Server thread/INFO]: Saving players
-[14:48:31] [Server thread/INFO]: Saving worlds
-[14:48:31] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[14:48:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:48:31] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[14:48:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:48:32] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[14:48:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:48:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:48:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:48:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:02:44] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/933728, l='world', x=-814.24, y=64.00, z=-226.94]
+[00:04:00] [Server thread/INFO]: [stealthGiraffe: Set the time to 1000]
+[00:05:55] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/934970, l='world', x=-814.62, y=64.00, z=-222.06]
+[00:12:01] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/937638, l='world', x=-745.66, y=94.00, z=-172.08]
+[00:13:19] [Server thread/INFO]: [stealthGiraffe: Set the time to 1000]
+[00:17:07] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/940232, l='world', x=-813.41, y=64.00, z=-218.83]
+[00:17:07] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/940233, l='world', x=-809.21, y=64.00, z=-221.91]
+[00:19:37] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-732, y=74, z=78} fk{x=-732, y=74, z=79}
+[00:19:37] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-732, y=74, z=78} fk{x=-732, y=74, z=79}
+[00:19:37] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-732, y=74, z=78} fk{x=-732, y=74, z=79}
+[00:19:37] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-732, y=74, z=78} fk{x=-732, y=74, z=79}
+[00:19:37] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-732, y=74, z=78} fk{x=-732, y=74, z=79}
+[00:21:10] [Server thread/INFO]: [stealthGiraffe: Set the time to 1000]
+[00:24:18] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-720, y=75, z=75} fk{x=-722, y=74, z=76}
+[00:24:18] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-720, y=75, z=75} fk{x=-722, y=74, z=76}
+[00:30:32] [Server thread/INFO]: [stealthGiraffe: Set the time to 1000]
+[00:35:10] [Server thread/INFO]: [stealthGiraffe: Set the time to 1000]
+[00:36:00] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-768, y=71, z=87} fk{x=-767, y=71, z=88}
+[00:36:00] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-768, y=71, z=87} fk{x=-767, y=71, z=88}
+[00:36:00] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-768, y=71, z=87} fk{x=-767, y=71, z=88}
+[00:44:10] [Server thread/INFO]: [stealthGiraffe: Set the time to 1000]
+[00:55:04] [Server thread/INFO]: [stealthGiraffe: Set the time to 1000]
+[00:57:35] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-848, y=98, z=275} fk{x=-848, y=96, z=275}
+[00:59:17] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/962064, l='world', x=-945.98, y=67.00, z=186.17]
+[00:59:40] [Server thread/WARN]: Fetching packet for removed entity awb['Dark Oak Fence'/962228, l='world', x=-878.77, y=79.41, z=58.29]
+[01:00:19] [Server thread/INFO]: Colonel_Pinapple lost connection: Disconnected
+[01:00:19] [Server thread/INFO]: Colonel_Pinapple left the game
+[01:04:35] [Server thread/INFO]: [stealthGiraffe: Set the time to 1000]
+[01:08:37] [Server thread/INFO]: stealthGiraffe lost connection: Disconnected
+[01:08:37] [Server thread/INFO]: stealthGiraffe left the game
+[01:10:55] [Server thread/INFO]: kxanxc was burnt to a crisp whilst fighting Zombie
+[01:23:57] [Server thread/INFO]: kxanxc lost connection: Disconnected
+[01:23:57] [Server thread/INFO]: kxanxc left the game
+[01:45:27] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/971429, l='world', x=-945.93, y=67.00, z=183.06]

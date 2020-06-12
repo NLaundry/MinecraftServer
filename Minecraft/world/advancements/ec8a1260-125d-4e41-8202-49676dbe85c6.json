@@ -439,6 +439,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2020-06-08 22:29:56 -0400",
       "baked_potato": "2020-06-01 19:09:29 -0400",
       "apple": "2020-05-30 17:14:07 -0400",
       "potato": "2020-06-01 18:13:10 -0400",
@@ -1031,6 +1032,7 @@
       "minecraft:spider": "2020-05-30 20:45:12 -0400",
       "minecraft:creeper": "2020-05-31 00:34:55 -0400",
       "minecraft:phantom": "2020-06-01 18:27:26 -0400",
+      "minecraft:husk": "2020-06-08 00:30:44 -0400",
       "minecraft:cave_spider": "2020-05-30 21:28:33 -0400",
       "minecraft:enderman": "2020-05-31 00:27:21 -0400",
       "minecraft:zombie": "2020-05-30 17:25:34 -0400",
@@ -1203,6 +1205,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2020-06-08 20:49:26 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2020-05-30 15:52:55 -0400"
@@ -1224,6 +1232,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2020-05-30 21:34:26 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2020-06-08 20:49:26 -0400"
     },
     "done": true
   },
@@ -1689,6 +1703,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2020-06-08 20:49:26 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2020-05-30 15:52:55 -0400"
@@ -2008,6 +2028,12 @@
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_acacia_planks": "2020-05-30 21:33:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2020-06-10 00:22:21 -0400"
     },
     "done": true
   },
