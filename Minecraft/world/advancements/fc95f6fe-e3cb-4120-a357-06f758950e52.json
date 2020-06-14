@@ -277,6 +277,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2020-06-12 22:11:42 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2020-05-26 17:41:07 -0400"
@@ -939,6 +945,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_green_dye": "2020-06-12 22:11:18 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2020-06-08 20:25:31 -0400"
@@ -1101,9 +1113,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2020-06-12 22:31:46 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_the_recipe": "2020-05-27 00:37:19 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2020-06-12 22:11:42 -0400"
     },
     "done": true
   },
@@ -1333,6 +1357,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2020-06-12 22:29:02 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2020-05-25 17:48:23 -0400"
@@ -1416,6 +1446,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2020-05-25 14:42:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2020-06-12 22:31:46 -0400"
     },
     "done": true
   },
@@ -1689,6 +1725,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2020-06-12 22:11:42 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_black_dye": "2020-05-26 21:09:29 -0400"
@@ -1728,6 +1770,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2020-05-25 14:56:48 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2020-06-12 22:29:02 -0400"
     },
     "done": true
   },
@@ -1803,6 +1851,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2020-06-12 22:20:32 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2020-05-26 18:29:04 -0400"
@@ -1860,6 +1914,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-05-25 14:57:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2020-06-13 19:54:57 -0400"
     },
     "done": true
   },
@@ -2111,6 +2171,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2020-06-13 19:54:57 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2020-06-08 22:47:06 -0400"
@@ -2281,6 +2347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2020-06-13 18:51:06 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2020-05-25 14:41:16 -0400"
@@ -2314,6 +2386,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2020-05-25 17:47:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2020-06-12 22:11:42 -0400"
     },
     "done": true
   },
@@ -2548,6 +2626,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2020-05-25 16:14:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2020-06-12 22:29:02 -0400"
     },
     "done": true
   },
@@ -3079,6 +3163,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2020-06-12 22:11:42 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2020-05-25 14:42:56 -0400"
@@ -3292,6 +3382,12 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2020-05-27 17:56:59 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2020-06-12 22:31:46 -0400"
     },
     "done": true
   },

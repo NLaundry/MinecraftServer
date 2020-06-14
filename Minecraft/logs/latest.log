@@ -1,34 +1,117 @@
-[00:02:44] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/933728, l='world', x=-814.24, y=64.00, z=-226.94]
-[00:04:00] [Server thread/INFO]: [stealthGiraffe: Set the time to 1000]
-[00:05:55] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/934970, l='world', x=-814.62, y=64.00, z=-222.06]
-[00:12:01] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/937638, l='world', x=-745.66, y=94.00, z=-172.08]
-[00:13:19] [Server thread/INFO]: [stealthGiraffe: Set the time to 1000]
-[00:17:07] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/940232, l='world', x=-813.41, y=64.00, z=-218.83]
-[00:17:07] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/940233, l='world', x=-809.21, y=64.00, z=-221.91]
-[00:19:37] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-732, y=74, z=78} fk{x=-732, y=74, z=79}
-[00:19:37] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-732, y=74, z=78} fk{x=-732, y=74, z=79}
-[00:19:37] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-732, y=74, z=78} fk{x=-732, y=74, z=79}
-[00:19:37] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-732, y=74, z=78} fk{x=-732, y=74, z=79}
-[00:19:37] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-732, y=74, z=78} fk{x=-732, y=74, z=79}
-[00:21:10] [Server thread/INFO]: [stealthGiraffe: Set the time to 1000]
-[00:24:18] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-720, y=75, z=75} fk{x=-722, y=74, z=76}
-[00:24:18] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-720, y=75, z=75} fk{x=-722, y=74, z=76}
-[00:30:32] [Server thread/INFO]: [stealthGiraffe: Set the time to 1000]
-[00:35:10] [Server thread/INFO]: [stealthGiraffe: Set the time to 1000]
-[00:36:00] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-768, y=71, z=87} fk{x=-767, y=71, z=88}
-[00:36:00] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-768, y=71, z=87} fk{x=-767, y=71, z=88}
-[00:36:00] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-768, y=71, z=87} fk{x=-767, y=71, z=88}
-[00:44:10] [Server thread/INFO]: [stealthGiraffe: Set the time to 1000]
-[00:55:04] [Server thread/INFO]: [stealthGiraffe: Set the time to 1000]
-[00:57:35] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-848, y=98, z=275} fk{x=-848, y=96, z=275}
-[00:59:17] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/962064, l='world', x=-945.98, y=67.00, z=186.17]
-[00:59:40] [Server thread/WARN]: Fetching packet for removed entity awb['Dark Oak Fence'/962228, l='world', x=-878.77, y=79.41, z=58.29]
-[01:00:19] [Server thread/INFO]: Colonel_Pinapple lost connection: Disconnected
-[01:00:19] [Server thread/INFO]: Colonel_Pinapple left the game
-[01:04:35] [Server thread/INFO]: [stealthGiraffe: Set the time to 1000]
-[01:08:37] [Server thread/INFO]: stealthGiraffe lost connection: Disconnected
-[01:08:37] [Server thread/INFO]: stealthGiraffe left the game
-[01:10:55] [Server thread/INFO]: kxanxc was burnt to a crisp whilst fighting Zombie
-[01:23:57] [Server thread/INFO]: kxanxc lost connection: Disconnected
-[01:23:57] [Server thread/INFO]: kxanxc left the game
-[01:45:27] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/971429, l='world', x=-945.93, y=67.00, z=183.06]
+[09:33:54] [Server thread/INFO]: com.mojang.authlib.GameProfile@581eafc9[id=<null>,name=MCCreep,properties={},legacy=false] (/99.225.193.61:60070) lost connection: Disconnected
+[09:34:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@24609c23[id=<null>,name=MCCreep,properties={},legacy=false] (/99.225.193.61:60071) lost connection: Disconnected
+[09:35:43] [User Authenticator #16/INFO]: UUID of player MCCreep is bf286c91-8e59-469f-b1db-7783f7c9cfbc
+[09:35:43] [Server thread/INFO]: MCCreep[/99.225.193.61:60108] logged in with entity id 58250 at (-897.1944715612794, 68.0, 219.37226732909565)
+[09:35:43] [Server thread/INFO]: MCCreep joined the game
+[09:37:03] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/59396, l='world', x=-948.46, y=67.00, z=183.32]
+[09:37:07] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/59411, l='world', x=-946.73, y=67.00, z=183.13]
+[09:52:46] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/62185, l='world', x=-945.82, y=67.00, z=184.43]
+[09:55:31] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/62693, l='world', x=-955.56, y=67.00, z=189.25]
+[10:17:18] [Server thread/INFO]: MCCreep lost connection: Disconnected
+[10:17:18] [Server thread/INFO]: MCCreep left the game
+[10:20:08] [Server thread/INFO]: com.mojang.authlib.GameProfile@703a502[id=<null>,name=MCCreep,properties={},legacy=false] (/99.225.193.61:61394) lost connection: Disconnected
+[18:22:35] [User Authenticator #17/INFO]: UUID of player stealthGiraffe is 9b6c58c4-da38-458e-9f19-910cc27a5d21
+[18:22:35] [Server thread/INFO]: stealthGiraffe[/99.225.193.61:59608] logged in with entity id 66550 at (-874.2000873290982, 73.0, 44.952405321512)
+[18:22:35] [Server thread/INFO]: stealthGiraffe joined the game
+[18:29:25] [Server thread/INFO]: [stealthGiraffe: Set the time to 1000]
+[18:37:35] [Server thread/INFO]: [stealthGiraffe: Set the time to 1000]
+[18:46:07] [Server thread/INFO]: [stealthGiraffe: Set the time to 1000]
+[18:46:56] [User Authenticator #18/INFO]: UUID of player kxanxc is fc95f6fe-e3cb-4120-a357-06f758950e52
+[18:46:56] [Server thread/INFO]: kxanxc[/64.231.254.169:54234] logged in with entity id 71663 at (-827.3457012362227, 81.0, -176.1190476714923)
+[18:46:56] [Server thread/INFO]: kxanxc joined the game
+[18:47:16] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/72435, l='world', x=-809.77, y=64.00, z=-219.83]
+[18:48:23] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-716, y=73, z=61} fk{x=-720, y=72, z=64}
+[18:48:23] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-716, y=73, z=61} fk{x=-720, y=72, z=64}
+[18:48:42] [Server thread/INFO]: [stealthGiraffe: Set own game mode to Creative Mode]
+[18:50:17] [Server thread/INFO]: [stealthGiraffe: Set own game mode to Survival Mode]
+[18:50:33] [Server thread/INFO]: stealthGiraffe lost connection: Disconnected
+[18:50:33] [Server thread/INFO]: stealthGiraffe left the game
+[18:50:33] [Server thread/INFO]: kxanxc lost connection: Disconnected
+[18:50:33] [Server thread/INFO]: kxanxc left the game
+[18:50:54] [User Authenticator #19/INFO]: UUID of player stealthGiraffe is 9b6c58c4-da38-458e-9f19-910cc27a5d21
+[18:50:54] [Server thread/INFO]: stealthGiraffe[/99.225.193.61:59721] logged in with entity id 73767 at (-865.8443003896758, 78.5, 61.47309250791408)
+[18:50:54] [Server thread/INFO]: stealthGiraffe joined the game
+[18:51:00] [User Authenticator #20/INFO]: UUID of player kxanxc is fc95f6fe-e3cb-4120-a357-06f758950e52
+[18:51:00] [Server thread/INFO]: kxanxc[/64.231.254.169:54244] logged in with entity id 74778 at (-687.9336242501222, 70.0, 64.19679955980114)
+[18:51:00] [Server thread/INFO]: kxanxc joined the game
+[18:53:42] [Server thread/INFO]: [stealthGiraffe: Set the time to 1000]
+[18:53:47] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-683, y=67, z=65} fk{x=-682, y=68, z=66}
+[18:57:07] [Server thread/INFO]: kxanxc lost connection: Disconnected
+[18:57:07] [Server thread/INFO]: kxanxc left the game
+[18:58:13] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/77734, l='world', x=-747.53, y=94.00, z=-170.52]
+[19:02:04] [Server thread/INFO]: [stealthGiraffe: Set the time to 1000]
+[19:05:37] [User Authenticator #21/INFO]: UUID of player kxanxc is fc95f6fe-e3cb-4120-a357-06f758950e52
+[19:05:37] [Server thread/INFO]: kxanxc[/64.231.254.169:54283] logged in with entity id 79600 at (-684.2584130282513, 64.0, 67.69999998807906)
+[19:05:37] [Server thread/INFO]: kxanxc joined the game
+[19:10:44] [Server thread/INFO]: [stealthGiraffe: Set the time to 1000]
+[19:13:07] [Server thread/INFO]: kxanxc lost connection: Disconnected
+[19:13:07] [Server thread/INFO]: kxanxc left the game
+[19:13:13] [Server thread/INFO]: stealthGiraffe lost connection: Disconnected
+[19:13:13] [Server thread/INFO]: stealthGiraffe left the game
+[19:13:24] [User Authenticator #22/INFO]: UUID of player stealthGiraffe is 9b6c58c4-da38-458e-9f19-910cc27a5d21
+[19:13:25] [Server thread/INFO]: stealthGiraffe[/99.225.193.61:59788] logged in with entity id 81907 at (-848.7336821734788, 73.0, 53.924826180274486)
+[19:13:25] [Server thread/INFO]: stealthGiraffe joined the game
+[19:17:38] [Server thread/INFO]: stealthGiraffe has made the advancement [What a Deal!]
+[19:20:00] [Server thread/INFO]: stealthGiraffe lost connection: Disconnected
+[19:20:00] [Server thread/INFO]: stealthGiraffe left the game
+[19:49:27] [User Authenticator #23/INFO]: UUID of player kxanxc is fc95f6fe-e3cb-4120-a357-06f758950e52
+[19:49:27] [Server thread/INFO]: kxanxc[/64.231.254.169:54642] logged in with entity id 84251 at (-836.2963638220747, 73.0, 35.75064996663491)
+[19:49:27] [Server thread/INFO]: kxanxc joined the game
+[19:52:20] [User Authenticator #24/INFO]: UUID of player stealthGiraffe is 9b6c58c4-da38-458e-9f19-910cc27a5d21
+[19:52:20] [Server thread/INFO]: stealthGiraffe[/99.225.193.61:60328] logged in with entity id 85975 at (-902.1020740275071, 68.0625, 247.8057251689562)
+[19:52:20] [Server thread/INFO]: stealthGiraffe joined the game
+[19:52:31] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/86091, l='world', x=-944.83, y=67.00, z=185.74]
+[19:52:45] [Server thread/INFO]: kxanxc lost connection: Disconnected
+[19:52:45] [Server thread/INFO]: kxanxc left the game
+[19:52:45] [Server thread/INFO]: stealthGiraffe lost connection: Disconnected
+[19:52:45] [Server thread/INFO]: stealthGiraffe left the game
+[19:53:06] [User Authenticator #25/INFO]: UUID of player stealthGiraffe is 9b6c58c4-da38-458e-9f19-910cc27a5d21
+[19:53:06] [Server thread/INFO]: stealthGiraffe[/99.225.193.61:60402] logged in with entity id 86137 at (-895.8775396571228, 70.0, 157.78760724980557)
+[19:53:06] [Server thread/INFO]: stealthGiraffe joined the game
+[19:53:08] [User Authenticator #26/INFO]: UUID of player kxanxc is fc95f6fe-e3cb-4120-a357-06f758950e52
+[19:53:08] [Server thread/INFO]: kxanxc[/64.231.254.169:54644] logged in with entity id 87164 at (-850.642821688707, 73.0, 52.23750001192093)
+[19:53:08] [Server thread/INFO]: kxanxc joined the game
+[19:53:14] [Server thread/INFO]: <stealthGiraffe> bruh my internet rn
+[19:53:24] [Server thread/INFO]: <kxanxc> its cool
+[19:53:48] [Server thread/INFO]: <stealthGiraffe> definitely gonna use red and yellow wool as accents
+[19:53:50] [Server thread/INFO]: <stealthGiraffe> looks good
+[19:53:54] [Server thread/INFO]: <kxanxc> it does
+[19:53:57] [Server thread/INFO]: <kxanxc> i like the red a lot
+[19:54:02] [Server thread/INFO]: <stealthGiraffe> thnx :D
+[19:54:09] [Server thread/INFO]: <kxanxc> you're a good designer
+[19:54:13] [Server thread/INFO]: <stealthGiraffe> thank ya
+[19:55:06] [Server thread/INFO]: <stealthGiraffe> you in discord?
+[19:55:13] [Server thread/INFO]: <kxanxc> ill hop in
+[19:55:20] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/88571, l='world', x=-814.19, y=64.00, z=-219.52]
+[19:55:23] [Server thread/INFO]: <stealthGiraffe> okie dokie
+[19:56:27] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/88812, l='world', x=-745.91, y=94.00, z=-170.11]
+[19:59:19] [Server thread/INFO]: [stealthGiraffe: Set the time to 1000]
+[20:00:53] [Server thread/INFO]: stealthGiraffe lost connection: Disconnected
+[20:00:53] [Server thread/INFO]: stealthGiraffe left the game
+[20:00:53] [Server thread/INFO]: kxanxc lost connection: Disconnected
+[20:00:53] [Server thread/INFO]: kxanxc left the game
+[20:01:13] [User Authenticator #27/INFO]: UUID of player stealthGiraffe is 9b6c58c4-da38-458e-9f19-910cc27a5d21
+[20:01:13] [Server thread/INFO]: stealthGiraffe[/99.225.193.61:60506] logged in with entity id 90194 at (-881.3899400641768, 73.0, 36.219797156525644)
+[20:01:13] [Server thread/INFO]: stealthGiraffe joined the game
+[20:01:17] [User Authenticator #28/INFO]: UUID of player kxanxc is fc95f6fe-e3cb-4120-a357-06f758950e52
+[20:01:17] [Server thread/INFO]: kxanxc[/64.231.254.169:54657] logged in with entity id 91156 at (-884.6580366050291, 68.0, 198.10265221660802)
+[20:01:17] [Server thread/INFO]: kxanxc joined the game
+[20:01:18] [Server thread/INFO]: stealthGiraffe lost connection: Disconnected
+[20:01:18] [Server thread/INFO]: stealthGiraffe left the game
+[20:01:23] [Server thread/INFO]: kxanxc lost connection: Disconnected
+[20:01:23] [Server thread/INFO]: kxanxc left the game
+[20:01:24] [Server thread/INFO]: Unknown command
+[20:01:24] [Server thread/INFO]: ststop<--[HERE]
+[20:01:26] [Server thread/INFO]: Stopping the server
+[20:01:26] [Server thread/INFO]: Stopping server
+[20:01:26] [Server thread/INFO]: Saving players
+[20:01:26] [Server thread/INFO]: Saving worlds
+[20:01:26] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[20:01:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:01:26] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[20:01:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:01:26] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[20:01:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:01:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:01:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:01:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
