@@ -349,6 +349,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_the_recipe": "2020-06-14 00:05:07 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2020-05-25 17:47:52 -0400"
@@ -406,6 +412,12 @@
   "minecraft:recipes/building_blocks/magenta_terracotta": {
     "criteria": {
       "has_terracotta": "2020-06-08 22:47:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2020-06-14 00:53:49 -0400"
     },
     "done": true
   },
@@ -701,6 +713,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2020-06-14 01:18:50 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2020-05-25 14:51:48 -0400"
@@ -951,6 +969,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2020-06-15 00:44:45 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2020-06-08 20:25:31 -0400"
@@ -1062,6 +1086,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2020-05-27 17:33:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2020-06-14 00:53:49 -0400"
     },
     "done": true
   },
@@ -1995,6 +2025,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2020-06-14 00:57:21 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2020-05-26 16:15:24 -0400"
@@ -2201,6 +2237,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2020-06-14 01:00:53 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2020-05-25 17:47:52 -0400"
@@ -2289,7 +2331,8 @@
     "criteria": {
       "minecraft:sheep": "2020-05-27 20:38:17 -0400",
       "minecraft:cow": "2020-05-29 20:45:31 -0400",
-      "minecraft:chicken": "2020-05-29 20:50:19 -0400"
+      "minecraft:chicken": "2020-05-29 20:50:19 -0400",
+      "minecraft:horse": "2020-06-14 00:06:43 -0400"
     },
     "done": false
   },
@@ -2638,6 +2681,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2020-05-26 11:20:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2020-06-14 00:05:07 -0400"
     },
     "done": true
   },

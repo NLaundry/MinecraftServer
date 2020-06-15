@@ -3378,6 +3378,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2020-06-14 23:32:21 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2020-05-27 20:18:42 -0400"
@@ -3491,6 +3497,7 @@
       "textures/entity/cat/tabby.png": "2020-06-08 21:05:13 -0400",
       "textures/entity/cat/white.png": "2020-06-08 19:55:25 -0400",
       "textures/entity/cat/black.png": "2020-06-08 21:03:54 -0400",
+      "textures/entity/cat/ragdoll.png": "2020-06-14 12:48:03 -0400",
       "textures/entity/cat/british_shorthair.png": "2020-06-08 14:27:52 -0400",
       "textures/entity/cat/persian.png": "2020-06-08 20:49:38 -0400"
     },
