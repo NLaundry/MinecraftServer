@@ -1,366 +1,133 @@
-[00:00:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2423ms or 48 ticks behind
-[00:00:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[00:00:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[00:00:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[00:01:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2139ms or 42 ticks behind
-[00:01:25] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/267875, l='world', x=-947.33, y=67.00, z=182.60]
-[00:01:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2200ms or 44 ticks behind
-[00:01:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
-[00:02:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2158ms or 43 ticks behind
-[00:02:08] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/268203, l='world', x=-947.43, y=67.00, z=182.49]
-[00:02:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[00:02:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[00:02:58] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/268464, l='world', x=-951.17, y=67.00, z=183.51]
-[00:03:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
-[00:03:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2190ms or 43 ticks behind
-[00:03:33] [Server thread/INFO]: MCCreep lost connection: Disconnected
-[00:03:33] [Server thread/INFO]: MCCreep left the game
-[00:03:36] [Server thread/INFO]: com.mojang.authlib.GameProfile@5e5ba722[id=<null>,name=MCCreep,properties={},legacy=false] (/99.227.111.229:63942) lost connection: Disconnected
-[00:03:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[00:04:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[00:04:32] [User Authenticator #57/INFO]: UUID of player MCCreep is bf286c91-8e59-469f-b1db-7783f7c9cfbc
-[00:04:32] [Server thread/INFO]: MCCreep[/99.227.111.229:64061] logged in with entity id 269093 at (-906.1539080940321, 68.5625, 234.10425608029442)
-[00:04:32] [Server thread/INFO]: MCCreep joined the game
-[00:04:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[00:04:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[00:05:08] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/269367, l='world', x=-949.18, y=67.00, z=182.10]
-[00:05:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[00:05:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2389ms or 47 ticks behind
-[00:05:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2284ms or 45 ticks behind
-[00:06:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[00:06:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
-[00:06:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2086ms or 41 ticks behind
-[00:06:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2105ms or 42 ticks behind
-[00:07:32] [Server thread/INFO]: [stealthGiraffe: Set the time to 0]
-[00:07:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[00:08:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[00:09:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[00:09:08] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/271100, l='world', x=-945.65, y=67.00, z=184.37]
-[00:09:26] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/271237, l='world', x=-950.70, y=67.00, z=185.97]
-[00:09:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[00:09:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[00:10:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2090ms or 41 ticks behind
-[00:10:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[00:10:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2283ms or 45 ticks behind
-[00:11:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2606ms or 52 ticks behind
-[00:11:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2175ms or 43 ticks behind
-[00:11:37] [Server thread/INFO]: Colonel_Pinapple fell from a high place
-[00:11:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[00:11:42] [Server thread/INFO]: <kxanxc> f
-[00:11:43] [Server thread/INFO]: <stealthGiraffe> F
-[00:11:58] [Server thread/INFO]: <Colonel_Pinapple> thats the second time tn ;_;
-[00:12:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[00:12:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2118ms or 42 ticks behind
-[00:12:36] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/272552, l='world', x=-949.90, y=67.00, z=184.74]
-[00:12:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2104ms or 42 ticks behind
-[00:12:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
-[00:13:08] [Server thread/INFO]: [stealthGiraffe: Set the time to 0]
-[00:13:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[00:13:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[00:13:40] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/272926, l='world', x=-945.16, y=67.00, z=185.57]
-[00:13:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[00:14:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[00:14:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
-[00:14:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[00:14:53] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/273388, l='world', x=-948.17, y=67.00, z=183.07]
-[00:15:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2263ms or 45 ticks behind
-[00:15:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2494ms or 49 ticks behind
-[00:15:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2511ms or 50 ticks behind
-[00:15:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2498ms or 49 ticks behind
-[00:16:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2751ms or 55 ticks behind
-[00:16:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2665ms or 53 ticks behind
-[00:16:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3664ms or 73 ticks behind
-[00:17:02] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/274657, l='world', x=-945.32, y=67.00, z=183.74]
-[00:17:05] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/274697, l='world', x=-948.84, y=67.00, z=184.07]
-[00:17:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3008ms or 60 ticks behind
-[00:17:19] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-831, y=74, z=24} fk{x=-837, y=73, z=30}
-[00:17:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3305ms or 66 ticks behind
-[00:17:28] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/274956, l='world', x=-945.78, y=67.00, z=185.80]
-[00:17:31] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/274971, l='world', x=-948.08, y=67.00, z=184.65]
-[00:17:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3091ms or 61 ticks behind
-[00:17:57] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/275148, l='world', x=-950.37, y=67.00, z=183.79]
-[00:18:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3020ms or 60 ticks behind
-[00:18:09] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/275282, l='world', x=-946.21, y=67.00, z=183.95]
-[00:18:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2586ms or 51 ticks behind
-[00:18:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2549ms or 50 ticks behind
-[00:18:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2656ms or 53 ticks behind
-[00:19:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2751ms or 55 ticks behind
-[00:19:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2872ms or 57 ticks behind
-[00:19:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3824ms or 76 ticks behind
-[00:20:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4024ms or 80 ticks behind
-[00:20:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3976ms or 79 ticks behind
-[00:20:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4155ms or 83 ticks behind
-[00:21:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5908ms or 118 ticks behind
-[00:21:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7742ms or 154 ticks behind
-[00:21:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6302ms or 126 ticks behind
-[00:22:06] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/276998, l='world', x=-946.87, y=67.00, z=186.17]
-[00:22:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5891ms or 117 ticks behind
-[00:22:33] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/277229, l='world', x=-945.96, y=67.00, z=183.81]
-[00:22:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6231ms or 124 ticks behind
-[00:22:54] [Server thread/INFO]: <kxanxc> with the whole idea of moving out soon
-[00:22:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6438ms or 128 ticks behind
-[00:22:59] [Server thread/INFO]: <kxanxc> getting the fuck outa here
-[00:23:02] [Server thread/INFO]: <kxanxc> costly
-[00:23:03] [Server thread/INFO]: <kxanxc> so like
-[00:23:11] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/277468, l='world', x=-949.13, y=67.00, z=183.44]
-[00:23:11] [Server thread/INFO]: <kxanxc> do i splurge for minecraft
-[00:23:15] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/277498, l='world', x=-950.63, y=67.00, z=183.03]
-[00:23:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6702ms or 134 ticks behind
-[00:23:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6159ms or 123 ticks behind
-[00:23:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5938ms or 118 ticks behind
-[00:24:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5472ms or 109 ticks behind
-[00:24:21] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/277955, l='world', x=-947.84, y=67.00, z=184.66]
-[00:24:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5870ms or 117 ticks behind
-[00:25:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6062ms or 121 ticks behind
-[00:25:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6784ms or 135 ticks behind
-[00:25:37] [Server thread/INFO]: <kxanxc> should i try and look at getting out before fall semster
-[00:25:40] [Server thread/INFO]: <kxanxc> in your opinion
-[00:25:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6510ms or 130 ticks behind
-[00:25:48] [Server thread/INFO]: <kxanxc> do you think its a good idea
-[00:25:48] [Server thread/INFO]: <stealthGiraffe> you already know my opinion on that
-[00:25:52] [Server thread/INFO]: <kxanxc> or even doable
-[00:26:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6189ms or 123 ticks behind
-[00:26:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6599ms or 131 ticks behind
-[00:26:46] [Server thread/INFO]: [stealthGiraffe: Set the time to 0]
-[00:26:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6901ms or 138 ticks behind
-[00:27:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7429ms or 148 ticks behind
-[00:27:27] [Server thread/INFO]: <kxanxc> i can do it but i dont know if im gonna snap
-[00:27:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7171ms or 143 ticks behind
-[00:27:43] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/279141, l='world', x=-947.40, y=67.00, z=183.80]
-[00:27:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6610ms or 132 ticks behind
-[00:28:00] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/279262, l='world', x=-951.17, y=67.00, z=184.82]
-[00:28:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6599ms or 131 ticks behind
-[00:28:18] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/279388, l='world', x=-949.69, y=67.00, z=183.76]
-[00:28:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6733ms or 134 ticks behind
-[00:29:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6717ms or 134 ticks behind
-[00:29:05] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/279752, l='world', x=-811.83, y=64.00, z=-219.78]
-[00:29:17] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/279936, l='world', x=-948.40, y=67.00, z=184.69]
-[00:29:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6256ms or 125 ticks behind
-[00:29:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6624ms or 132 ticks behind
-[00:30:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6891ms or 137 ticks behind
-[00:30:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8261ms or 165 ticks behind
-[00:30:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7340ms or 146 ticks behind
-[00:31:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7352ms or 147 ticks behind
-[00:31:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7800ms or 156 ticks behind
-[00:31:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7380ms or 147 ticks behind
-[00:32:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7418ms or 148 ticks behind
-[00:32:33] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/282003, l='world', x=-744.65, y=94.00, z=-171.15]
-[00:32:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5017ms or 100 ticks behind
-[00:32:46] [Server thread/INFO]: <kxanxc> im honestly waiting till fathers back in the house...if it gets worse i have no fucking clue then
-[00:33:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4246ms or 84 ticks behind
-[00:33:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4538ms or 90 ticks behind
-[00:33:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4839ms or 96 ticks behind
-[00:33:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4690ms or 93 ticks behind
-[00:34:01] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/282724, l='world', x=-948.72, y=67.00, z=183.50]
-[00:34:02] [Server thread/WARN]: Horsomir moved wrongly!
-[00:34:02] [Server thread/WARN]: Horsomir moved wrongly!
-[00:34:03] [Server thread/WARN]: Horsomir moved wrongly!
-[00:34:03] [Server thread/WARN]: Horsomir moved wrongly!
-[00:34:03] [Server thread/WARN]: Horsomir moved wrongly!
-[00:34:03] [Server thread/WARN]: Horsomir moved wrongly!
-[00:34:04] [Server thread/WARN]: Horsomir moved wrongly!
-[00:34:04] [Server thread/WARN]: Horsomir moved wrongly!
-[00:34:04] [Server thread/WARN]: Horsomir moved wrongly!
-[00:34:05] [Server thread/WARN]: Horsomir moved wrongly!
-[00:34:05] [Server thread/WARN]: Horsomir moved wrongly!
-[00:34:05] [Server thread/WARN]: Horsomir moved wrongly!
-[00:34:06] [Server thread/WARN]: Horsomir moved wrongly!
-[00:34:06] [Server thread/WARN]: Horsomir moved wrongly!
-[00:34:07] [Server thread/WARN]: Horsomir moved wrongly!
-[00:34:07] [Server thread/WARN]: Horsomir moved wrongly!
-[00:34:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4680ms or 93 ticks behind
-[00:34:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2834ms or 56 ticks behind
-[00:34:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2462ms or 49 ticks behind
-[00:35:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[00:35:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[00:37:48] [Server thread/WARN]: Horsomir moved wrongly!
-[00:37:48] [Server thread/WARN]: Horsomir moved wrongly!
-[00:37:49] [Server thread/WARN]: Horsomir moved wrongly!
-[00:37:56] [Server thread/INFO]: [stealthGiraffe: Set the time to 0]
-[00:38:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[00:38:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[00:39:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[00:40:11] [Server thread/INFO]: <kxanxc> pineapple
-[00:40:16] [Server thread/INFO]: <kxanxc> could you come here pls
-[00:40:22] [Server thread/INFO]: <kxanxc> i need to borrow your face
-[00:40:26] [Server thread/INFO]: <Colonel_Pinapple> sure
-[00:40:29] [Server thread/INFO]: <Colonel_Pinapple> where?
-[00:40:34] [Server thread/INFO]: <kxanxc> by the flag
-[00:40:44] [Server thread/INFO]: <Colonel_Pinapple> ?
-[00:40:58] [Server thread/INFO]: <kxanxc> past nathans house
-[00:41:06] [Server thread/INFO]: <Colonel_Pinapple> gotcha
-[00:41:18] [Server thread/INFO]: <Colonel_Pinapple> ahh that flag
-[00:41:18] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/286536, l='world', x=-747.41, y=94.00, z=-174.77]
-[00:41:48] [Server thread/INFO]: <kxanxc> take off your helmet pls
-[00:41:52] [Server thread/INFO]: <kxanxc> im making your face
-[00:41:54] [Server thread/INFO]: <kxanxc> as you can see
-[00:42:03] [Server thread/INFO]: <Colonel_Pinapple> thank you <3
-[00:42:10] [Server thread/INFO]: <kxanxc> any tips?
-[00:42:41] [Server thread/INFO]: <Colonel_Pinapple> i think it looks great tbh!
-[00:42:45] [Server thread/INFO]: <kxanxc> okiee
-[00:42:49] [Server thread/INFO]: <kxanxc> thank you <3
-[00:43:00] [Server thread/INFO]: <Colonel_Pinapple> maybe a bite more grey?
-[00:43:10] [Server thread/INFO]: <kxanxc> ouu my eyes no work
-[00:43:13] [Server thread/INFO]: <kxanxc> where should i grey
-[00:43:18] [Server thread/INFO]: <kxanxc> and light or dark
-[00:43:35] [Server thread/INFO]: <Colonel_Pinapple> prob dark
-[00:43:45] [Server thread/INFO]: <kxanxc> ahh maybe like at the sides of the dark blue
-[00:43:54] [Server thread/INFO]: <Colonel_Pinapple> perfect <3
-[00:43:57] [Server thread/INFO]: <kxanxc> ty ty
-[00:44:39] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/287577, l='world', x=-747.49, y=94.00, z=-170.92]
-[00:44:55] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/287684, l='world', x=-748.77, y=94.00, z=-172.29]
-[00:45:16] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/287851, l='world', x=-948.88, y=67.00, z=182.69]
-[00:46:08] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/288247, l='world', x=-747.09, y=94.00, z=-172.72]
-[00:46:37] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/288450, l='world', x=-813.71, y=64.00, z=-227.10]
-[00:47:51] [Server thread/INFO]: [stealthGiraffe: Set the time to 0]
-[00:47:58] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/289102, l='world', x=-815.17, y=64.00, z=-226.77]
-[00:48:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[00:48:13] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/289294, l='world', x=-747.45, y=94.00, z=-174.78]
-[00:51:15] [Server thread/INFO]: Colonel_Pinapple lost connection: Disconnected
-[00:51:15] [Server thread/INFO]: Colonel_Pinapple left the game
-[00:52:39] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/291205, l='world', x=-944.83, y=67.00, z=186.17]
-[00:53:53] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/291564, l='world', x=-949.09, y=67.00, z=184.80]
-[00:54:25] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/291692, l='world', x=-946.67, y=67.00, z=182.54]
-[00:56:41] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/292373, l='world', x=-945.52, y=67.00, z=184.01]
-[00:57:36] [Server thread/INFO]: [stealthGiraffe: Set the time to 0]
-[00:58:29] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/292956, l='world', x=-946.56, y=67.00, z=181.83]
-[00:59:39] [Server thread/INFO]: <kxanxc> hes a very agressive person
-[00:59:52] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/293487, l='world', x=-948.44, y=67.00, z=184.42]
-[01:01:25] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/294016, l='world', x=-744.98, y=94.00, z=-174.29]
-[01:01:39] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/294125, l='world', x=-747.47, y=94.00, z=-170.29]
-[01:02:01] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/294249, l='world', x=-745.05, y=94.00, z=-170.25]
-[01:02:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[01:02:52] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/294581, l='world', x=-748.34, y=94.00, z=-172.12]
-[01:02:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[01:03:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[01:03:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[01:03:38] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-842, y=70, z=9} fk{x=-843, y=70, z=10}
-[01:03:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[01:04:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2368ms or 47 ticks behind
-[01:04:09] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/295381, l='world', x=-744.85, y=94.00, z=-170.25]
-[01:04:20] [Server thread/INFO]: <kxanxc> its different for alex, hes a male, he can stand up for himeself
-[01:04:20] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/295429, l='world', x=-745.20, y=94.00, z=-171.06]
-[01:04:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2408ms or 48 ticks behind
-[01:04:36] [Server thread/INFO]: <kxanxc> plus shes not nearly as hard on him
-[01:04:38] [Server thread/INFO]: <kxanxc> cause hes a male
-[01:04:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2232ms or 44 ticks behind
-[01:04:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2395ms or 47 ticks behind
-[01:05:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2959ms or 59 ticks behind
-[01:05:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3868ms or 77 ticks behind
-[01:05:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3937ms or 78 ticks behind
-[01:06:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5589ms or 111 ticks behind
-[01:06:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3984ms or 79 ticks behind
-[01:06:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4694ms or 93 ticks behind
-[01:07:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4864ms or 97 ticks behind
-[01:07:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6078ms or 121 ticks behind
-[01:07:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7238ms or 144 ticks behind
-[01:08:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6383ms or 127 ticks behind
-[01:08:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3249ms or 64 ticks behind
-[01:09:14] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/297300, l='world', x=-947.74, y=67.00, z=183.17]
-[01:09:26] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/297354, l='world', x=-945.55, y=67.00, z=184.43]
-[01:09:59] [Server thread/INFO]: [stealthGiraffe: Set the time to 0]
-[01:10:52] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/297756, l='world', x=-945.76, y=67.00, z=183.56]
-[01:11:18] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/297862, l='world', x=-947.37, y=67.00, z=183.28]
-[01:12:42] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/298225, l='world', x=-946.08, y=67.00, z=183.71]
-[01:13:27] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/298401, l='world', x=-949.07, y=67.00, z=182.48]
-[01:13:36] [Server thread/INFO]: [stealthGiraffe: Set the weather to clear]
-[01:15:13] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/298912, l='world', x=-946.33, y=67.00, z=184.95]
-[01:15:13] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/298912, l='world', x=-946.33, y=67.00, z=184.95]
-[01:17:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
-[01:17:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5194ms or 103 ticks behind
-[01:18:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4866ms or 97 ticks behind
-[01:18:54] [Server thread/INFO]: [stealthGiraffe: Set the time to 0]
-[01:19:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[01:19:30] [Server thread/INFO]: [stealthGiraffe: Set the weather to clear]
-[01:19:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4418ms or 88 ticks behind
-[01:20:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4547ms or 90 ticks behind
-[01:20:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4326ms or 86 ticks behind
-[01:20:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3730ms or 74 ticks behind
-[01:20:53] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/300960, l='world', x=-950.73, y=67.00, z=185.19]
-[01:21:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3551ms or 71 ticks behind
-[01:21:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3932ms or 78 ticks behind
-[01:21:38] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/301170, l='world', x=-949.01, y=67.00, z=183.32]
-[01:21:42] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/301200, l='world', x=-949.44, y=67.00, z=186.17]
-[01:21:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3834ms or 76 ticks behind
-[01:21:57] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/301261, l='world', x=-946.34, y=67.00, z=182.88]
-[01:22:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3604ms or 72 ticks behind
-[01:22:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[01:23:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3122ms or 62 ticks behind
-[01:24:53] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/302227, l='world', x=-945.68, y=67.00, z=183.48]
-[01:25:29] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/302625, l='world', x=-945.77, y=67.00, z=185.30]
-[01:26:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[01:26:28] [Server thread/INFO]: [stealthGiraffe: Set the weather to clear]
-[01:26:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6895ms or 137 ticks behind
-[01:26:35] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/303046, l='world', x=-946.29, y=67.00, z=184.86]
-[01:26:54] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/303148, l='world', x=-949.61, y=67.00, z=182.71]
-[01:26:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7071ms or 141 ticks behind
-[01:26:56] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/303154, l='world', x=-746.84, y=94.00, z=-173.72]
-[01:27:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6837ms or 136 ticks behind
-[01:27:16] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/303270, l='world', x=-744.26, y=94.00, z=-172.49]
-[01:27:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6326ms or 126 ticks behind
-[01:27:42] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/303401, l='world', x=-748.05, y=94.00, z=-175.17]
-[01:27:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6448ms or 128 ticks behind
-[01:27:59] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/303496, l='world', x=-744.73, y=94.00, z=-169.83]
-[01:28:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5691ms or 113 ticks behind
-[01:28:29] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/303609, l='world', x=-946.97, y=67.00, z=185.60]
-[01:28:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3644ms or 72 ticks behind
-[01:28:45] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/303708, l='world', x=-945.27, y=67.00, z=182.61]
-[01:28:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3202ms or 64 ticks behind
-[01:29:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4299ms or 85 ticks behind
-[01:29:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5738ms or 114 ticks behind
-[01:29:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6633ms or 132 ticks behind
-[01:30:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5871ms or 117 ticks behind
-[01:30:37] [Server thread/INFO]: <kxanxc> if i leave its gonna have to be like a "fuck you father i must go" because every time i mentioned it hes guilt tripped me into why i have to stay and how i cnat support myself or take care of myself
-[01:30:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5997ms or 119 ticks behind
-[01:30:40] [Server thread/INFO]: <kxanxc> and thats fucking hard
-[01:31:00] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/304363, l='world', x=-747.84, y=94.00, z=-171.08]
-[01:31:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6718ms or 134 ticks behind
-[01:31:05] [Server thread/INFO]: [stealthGiraffe: Set the time to 0]
-[01:31:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6398ms or 127 ticks behind
-[01:31:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5962ms or 119 ticks behind
-[01:31:54] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/304620, l='world', x=-944.95, y=67.00, z=186.17]
-[01:32:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5668ms or 113 ticks behind
-[01:32:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6164ms or 123 ticks behind
-[01:32:38] [Server thread/INFO]: [stealthGiraffe: Set own game mode to Creative Mode]
-[01:32:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5904ms or 118 ticks behind
-[01:33:06] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/304940, l='world', x=-950.82, y=67.00, z=184.82]
-[01:33:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5881ms or 117 ticks behind
-[01:33:26] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/305035, l='world', x=-947.38, y=67.00, z=184.92]
-[01:33:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5891ms or 117 ticks behind
-[01:33:37] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/305102, l='world', x=-946.52, y=67.00, z=183.52]
-[01:33:43] [Server thread/INFO]: [stealthGiraffe: Set own game mode to Survival Mode]
-[01:33:48] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/305139, l='world', x=-744.43, y=94.00, z=-174.82]
-[01:33:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6962ms or 139 ticks behind
-[01:34:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6872ms or 137 ticks behind
-[01:34:13] [Server thread/INFO]: [stealthGiraffe: Set own game mode to Creative Mode]
-[01:34:18] [Server thread/INFO]: [stealthGiraffe: Set the time to 0]
-[01:34:18] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/305270, l='world', x=-744.19, y=94.00, z=-170.27]
-[01:34:23] [Server thread/INFO]: [stealthGiraffe: Set the weather to clear]
-[01:34:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6378ms or 127 ticks behind
-[01:34:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5864ms or 117 ticks behind
-[01:35:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4620ms or 92 ticks behind
-[01:35:47] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/305686, l='world', x=-951.17, y=67.00, z=185.24]
-[01:36:00] [Server thread/INFO]: [stealthGiraffe: Set own game mode to Survival Mode]
-[01:36:29] [Server thread/INFO]: MCCreep lost connection: Disconnected
-[01:36:29] [Server thread/INFO]: MCCreep left the game
-[01:36:42] [Server thread/INFO]: kxanxc lost connection: Disconnected
-[01:36:42] [Server thread/INFO]: kxanxc left the game
-[01:37:25] [Server thread/INFO]: [stealthGiraffe: Set own game mode to Creative Mode]
-[01:39:52] [Server thread/INFO]: [stealthGiraffe: Set the time to 0]
-[01:44:57] [Server thread/INFO]: stealthGiraffe has made the advancement [A Throwaway Joke]
-[01:47:24] [Server thread/INFO]: stealthGiraffe lost connection: Disconnected
-[01:47:24] [Server thread/INFO]: stealthGiraffe left the game
-[01:54:39] [Server thread/INFO]: There are 0 of a max 20 players online: 
-[01:54:41] [Server thread/INFO]: Stopping the server
-[01:54:41] [Server thread/INFO]: Stopping server
-[01:54:41] [Server thread/INFO]: Saving players
-[01:54:41] [Server thread/INFO]: Saving worlds
-[01:54:41] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[01:54:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:54:41] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[01:54:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:54:41] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[01:54:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:54:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:54:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:54:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:22:55] [User Authenticator #4/INFO]: UUID of player KILLROYIII is 8224ac11-50ac-4d64-a4fe-f291e6ce8e17
+[10:22:55] [Server thread/INFO]: KILLROYIII[/174.117.47.174:51121] logged in with entity id 37020 at (-925.0017545547893, 64.0, 115.50350747989263)
+[10:22:55] [Server thread/INFO]: KILLROYIII joined the game
+[10:25:24] [Server thread/INFO]: KILLROYIII lost connection: Disconnected
+[10:25:24] [Server thread/INFO]: KILLROYIII left the game
+[10:45:57] [User Authenticator #5/INFO]: UUID of player KILLROYIII is 8224ac11-50ac-4d64-a4fe-f291e6ce8e17
+[10:45:57] [Server thread/INFO]: KILLROYIII[/174.117.47.174:51302] logged in with entity id 38665 at (-911.3551510273443, 58.0, 116.37588208658656)
+[10:45:57] [Server thread/INFO]: KILLROYIII joined the game
+[10:46:15] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/39883, l='world', x=-949.22, y=67.00, z=184.50]
+[10:52:12] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/41492, l='world', x=-950.58, y=67.00, z=184.87]
+[10:52:59] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/41647, l='world', x=-950.82, y=67.00, z=181.83]
+[10:53:08] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/41682, l='world', x=-950.51, y=67.00, z=185.23]
+[10:54:13] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/41955, l='world', x=-944.83, y=67.00, z=186.17]
+[10:55:36] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/42269, l='world', x=-951.17, y=67.00, z=184.07]
+[10:56:27] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/43480, l='world', x=-1127.13, y=70.00, z=-213.12]
+[10:57:51] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/44672, l='world', x=-945.67, y=67.00, z=184.44]
+[10:58:13] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/44765, l='world', x=-947.51, y=67.00, z=186.17]
+[10:58:55] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/44918, l='world', x=-951.17, y=67.00, z=184.46]
+[10:59:09] [Server thread/INFO]: KILLROYIII lost connection: Disconnected
+[10:59:09] [Server thread/INFO]: KILLROYIII left the game
+[18:07:20] [User Authenticator #6/INFO]: UUID of player Colonel_Pinapple is ec8a1260-125d-4e41-8202-49676dbe85c6
+[18:07:20] [Server thread/INFO]: Colonel_Pinapple[/206.174.176.151:55570] logged in with entity id 44967 at (-800.1779291300668, 65.0, -251.39806051957868)
+[18:07:20] [Server thread/INFO]: Colonel_Pinapple joined the game
+[18:12:20] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-739, y=134, z=-338} fk{x=-739, y=133, z=-337}
+[18:12:20] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-739, y=134, z=-338} fk{x=-739, y=133, z=-337}
+[18:12:20] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-739, y=134, z=-338} fk{x=-739, y=133, z=-337}
+[18:12:20] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-739, y=134, z=-338} fk{x=-739, y=133, z=-337}
+[18:12:24] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-737, y=136, z=-340} fk{x=-737, y=135, z=-339}
+[18:12:24] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-737, y=136, z=-340} fk{x=-737, y=135, z=-339}
+[18:12:24] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-737, y=136, z=-340} fk{x=-737, y=135, z=-339}
+[18:12:24] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-737, y=136, z=-340} fk{x=-737, y=135, z=-339}
+[18:12:24] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-737, y=136, z=-340} fk{x=-737, y=135, z=-339}
+[18:12:24] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-737, y=136, z=-340} fk{x=-737, y=135, z=-339}
+[18:12:24] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-737, y=136, z=-340} fk{x=-737, y=135, z=-339}
+[18:22:26] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/49711, l='world', x=-807.83, y=64.00, z=-221.00]
+[18:24:19] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/50098, l='world', x=-808.82, y=64.00, z=-222.74]
+[18:25:47] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/50372, l='world', x=-809.10, y=64.00, z=-219.88]
+[18:54:36] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/57116, l='world', x=-812.21, y=64.00, z=-226.76]
+[18:55:49] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/57321, l='world', x=-813.14, y=64.00, z=-219.27]
+[19:06:39] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/59694, l='world', x=-809.10, y=64.00, z=-219.88]
+[19:06:45] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/59714, l='world', x=-812.21, y=64.00, z=-221.49]
+[19:20:20] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/62714, l='world', x=-812.68, y=64.00, z=-219.71]
+[19:23:16] [Server thread/INFO]: Colonel_Pinapple lost connection: Disconnected
+[19:23:16] [Server thread/INFO]: Colonel_Pinapple left the game
+[19:27:25] [User Authenticator #7/INFO]: UUID of player Colonel_Pinapple is ec8a1260-125d-4e41-8202-49676dbe85c6
+[19:27:25] [Server thread/INFO]: Colonel_Pinapple[/206.174.176.151:54857] logged in with entity id 63328 at (-638.1399777159147, 63.0, -321.30000001192093)
+[19:27:25] [Server thread/INFO]: Colonel_Pinapple joined the game
+[19:35:23] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/66491, l='world', x=-745.44, y=94.00, z=-173.94]
+[19:43:16] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/68296, l='world', x=-811.97, y=64.00, z=-221.08]
+[20:04:19] [Server thread/INFO]: Colonel_Pinapple lost connection: Disconnected
+[20:04:19] [Server thread/INFO]: Colonel_Pinapple left the game
+[20:50:15] [User Authenticator #8/INFO]: UUID of player Colonel_Pinapple is ec8a1260-125d-4e41-8202-49676dbe85c6
+[20:50:15] [Server thread/INFO]: Colonel_Pinapple[/206.174.176.151:55599] logged in with entity id 73085 at (-706.1130820593534, 161.0, -296.9111430422086)
+[20:50:15] [Server thread/INFO]: Colonel_Pinapple joined the game
+[20:59:08] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/75829, l='world', x=-815.42, y=64.00, z=-227.42]
+[21:02:42] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/76627, l='world', x=-814.75, y=64.00, z=-219.23]
+[21:02:48] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/76646, l='world', x=-809.52, y=64.00, z=-225.80]
+[21:04:29] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/77059, l='world', x=-745.05, y=94.00, z=-170.32]
+[21:20:45] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/84298, l='world', x=-814.25, y=64.00, z=-223.43]
+[21:24:53] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/85231, l='world', x=-812.53, y=64.00, z=-227.17]
+[21:27:19] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/85756, l='world', x=-814.76, y=64.00, z=-220.92]
+[21:28:13] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/85913, l='world', x=-815.17, y=64.00, z=-222.59]
+[21:28:34] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/85968, l='world', x=-807.83, y=64.00, z=-219.32]
+[21:29:32] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/86198, l='world', x=-815.17, y=64.00, z=-220.19]
+[21:36:02] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/90509, l='world', x=-745.22, y=94.00, z=-173.28]
+[21:36:04] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/90535, l='world', x=-748.22, y=94.00, z=-174.87]
+[21:38:53] [Server thread/INFO]: Colonel_Pinapple lost connection: Disconnected
+[21:38:53] [Server thread/INFO]: Colonel_Pinapple left the game
+[21:47:04] [User Authenticator #9/INFO]: UUID of player Colonel_Pinapple is ec8a1260-125d-4e41-8202-49676dbe85c6
+[21:47:04] [Server thread/INFO]: Colonel_Pinapple[/206.174.176.151:56190] logged in with entity id 92275 at (-703.6625015141612, 161.0, -281.56431494110154)
+[21:47:04] [Server thread/INFO]: Colonel_Pinapple joined the game
+[21:52:28] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/96161, l='world', x=-807.83, y=64.00, z=-225.54]
+[22:06:06] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/100617, l='world', x=-748.75, y=94.00, z=-173.80]
+[22:12:39] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/102071, l='world', x=-809.17, y=64.00, z=-224.65]
+[22:23:10] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/104177, l='world', x=-808.48, y=64.00, z=-223.55]
+[22:24:49] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/104626, l='world', x=-749.17, y=94.00, z=-175.17]
+[22:25:16] [Server thread/INFO]: Colonel_Pinapple lost connection: Disconnected
+[22:25:16] [Server thread/INFO]: Colonel_Pinapple left the game
+[22:27:25] [User Authenticator #10/INFO]: Disconnecting com.mojang.authlib.GameProfile@54e03d22[id=<null>,name=Colonel_Pinapple,properties={},legacy=false] (/206.174.176.151:54883): Authentication servers are down. Please try again later, sorry!
+[22:27:25] [User Authenticator #10/ERROR]: Couldn't verify username because servers are unavailable
+[22:27:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@54e03d22[id=<null>,name=Colonel_Pinapple,properties={},legacy=false] (/206.174.176.151:54883) lost connection: Authentication servers are down. Please try again later, sorry!
+[22:27:29] [User Authenticator #11/INFO]: Disconnecting com.mojang.authlib.GameProfile@56e940d7[id=<null>,name=Colonel_Pinapple,properties={},legacy=false] (/206.174.176.151:54890): Authentication servers are down. Please try again later, sorry!
+[22:27:29] [User Authenticator #11/ERROR]: Couldn't verify username because servers are unavailable
+[22:27:29] [Server thread/INFO]: com.mojang.authlib.GameProfile@56e940d7[id=<null>,name=Colonel_Pinapple,properties={},legacy=false] (/206.174.176.151:54890) lost connection: Authentication servers are down. Please try again later, sorry!
+[22:28:10] [User Authenticator #12/INFO]: UUID of player Colonel_Pinapple is ec8a1260-125d-4e41-8202-49676dbe85c6
+[22:28:10] [Server thread/INFO]: Colonel_Pinapple[/206.174.176.151:1358] logged in with entity id 104886 at (-743.8834084607595, 143.5, -321.90494317443193)
+[22:28:10] [Server thread/INFO]: Colonel_Pinapple joined the game
+[22:42:27] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/109393, l='world', x=-811.88, y=64.00, z=-221.57]
+[22:42:53] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/109467, l='world', x=-809.60, y=64.00, z=-227.16]
+[22:57:16] [Server thread/INFO]: Colonel_Pinapple lost connection: Disconnected
+[22:57:16] [Server thread/INFO]: Colonel_Pinapple left the game
+[22:59:21] [User Authenticator #13/INFO]: UUID of player Colonel_Pinapple is ec8a1260-125d-4e41-8202-49676dbe85c6
+[22:59:21] [Server thread/INFO]: Colonel_Pinapple[/206.174.176.151:55210] logged in with entity id 112234 at (-702.6258738510393, 161.0, -282.6398704538401)
+[22:59:21] [Server thread/INFO]: Colonel_Pinapple joined the game
+[23:13:44] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/115761, l='world', x=-808.96, y=64.00, z=-226.25]
+[23:14:39] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/115968, l='world', x=-809.15, y=64.00, z=-226.65]
+[23:14:45] [Server thread/INFO]: Colonel_Pinapple lost connection: Disconnected
+[23:14:45] [Server thread/INFO]: Colonel_Pinapple left the game
+[23:21:37] [User Authenticator #14/INFO]: UUID of player KILLROYIII is 8224ac11-50ac-4d64-a4fe-f291e6ce8e17
+[23:21:37] [Server thread/INFO]: KILLROYIII[/174.117.47.174:51431] logged in with entity id 115988 at (-928.4947047766034, 81.0, 145.54022639849137)
+[23:21:37] [Server thread/INFO]: KILLROYIII joined the game
+[23:24:29] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/117698, l='world', x=-950.19, y=67.00, z=182.76]
+[23:24:31] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/117705, l='world', x=-950.75, y=67.00, z=183.61]
+[23:24:33] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/117728, l='world', x=-945.12, y=67.00, z=183.10]
+[23:26:37] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/119125, l='world', x=-748.76, y=94.00, z=-171.22]
+[23:26:55] [Server thread/INFO]: KILLROYIII lost connection: Disconnected
+[23:26:55] [Server thread/INFO]: KILLROYIII left the game
+[23:29:10] [User Authenticator #15/INFO]: UUID of player KILLROYIII is 8224ac11-50ac-4d64-a4fe-f291e6ce8e17
+[23:29:10] [Server thread/INFO]: KILLROYIII[/174.117.47.174:51485] logged in with entity id 119320 at (-731.0014739701653, 93.0, -161.38194561835934)
+[23:29:10] [Server thread/INFO]: KILLROYIII joined the game
+[23:31:42] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/122003, l='world', x=-946.28, y=67.00, z=181.83]
+[23:32:18] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/122135, l='world', x=-946.61, y=67.00, z=184.40]
+[23:32:52] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/122259, l='world', x=-950.33, y=67.00, z=182.18]
+[23:33:44] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/122460, l='world', x=-948.13, y=67.00, z=184.82]
+[23:34:10] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/122544, l='world', x=-946.10, y=67.00, z=183.88]
+[23:34:51] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/122663, l='world', x=-951.17, y=67.00, z=182.77]
+[23:38:50] [Server thread/INFO]: There are 1 of a max 20 players online: KILLROYIII
+[23:40:06] [Server thread/INFO]: There are 1 of a max 20 players online: KILLROYIII
+[23:40:32] [Server thread/INFO]: KILLROYIII lost connection: Disconnected
+[23:40:32] [Server thread/INFO]: KILLROYIII left the game
+[23:40:41] [Server thread/INFO]: Stopping the server
+[23:40:41] [Server thread/INFO]: Stopping server
+[23:40:41] [Server thread/INFO]: Saving players
+[23:40:41] [Server thread/INFO]: Saving worlds
+[23:40:41] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[23:40:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:40:41] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[23:40:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:40:41] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[23:40:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:40:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:40:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:40:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

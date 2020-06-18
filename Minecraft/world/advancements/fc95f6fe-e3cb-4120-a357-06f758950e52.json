@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone": {
+    "criteria": {
+      "has_vine": "2020-06-15 14:29:53 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2020-05-25 14:56:48 -0400"
@@ -598,6 +604,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2020-06-15 23:49:17 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-05-25 14:42:56 -0400"
@@ -708,7 +720,9 @@
       "minecraft:witch": "2020-05-28 16:21:27 -0400",
       "minecraft:husk": "2020-05-26 11:20:03 -0400",
       "minecraft:cave_spider": "2020-05-26 18:04:56 -0400",
+      "minecraft:enderman": "2020-06-15 23:40:51 -0400",
       "minecraft:zombie": "2020-05-25 14:48:33 -0400",
+      "minecraft:drowned": "2020-06-15 18:33:09 -0400",
       "minecraft:zombie_villager": "2020-05-26 21:46:00 -0400"
     },
     "done": false
@@ -2082,6 +2096,7 @@
       "potato": "2020-05-29 17:21:46 -0400",
       "bread": "2020-05-25 16:50:02 -0400",
       "suspicious_stew": "2020-05-27 01:16:39 -0400",
+      "melon_slice": "2020-06-15 20:18:39 -0400",
       "beetroot": "2020-05-26 23:58:12 -0400",
       "cooked_chicken": "2020-05-25 15:19:35 -0400"
     },
@@ -2939,6 +2954,12 @@
   "minecraft:recipes/misc/gold_ingot": {
     "criteria": {
       "has_gold_ore": "2020-05-26 17:43:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2020-06-15 21:15:34 -0400"
     },
     "done": true
   },

@@ -203,6 +203,15 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2020-06-15 17:06:30 -0400",
+      "diamond_helmet": "2020-06-15 17:06:30 -0400",
+      "diamond_chestplate": "2020-06-15 17:06:30 -0400",
+      "diamond_boots": "2020-06-15 17:06:30 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-05-26 16:48:41 -0400"
