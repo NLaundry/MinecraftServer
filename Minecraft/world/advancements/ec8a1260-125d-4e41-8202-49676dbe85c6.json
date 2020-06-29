@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-06-21 20:36:43 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting": {
     "criteria": {
       "has_iron_ore": "2020-05-30 16:47:00 -0400"
@@ -344,6 +350,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2020-05-30 21:08:53 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-06-21 20:36:43 -0400"
     },
     "done": true
   },
@@ -610,6 +622,12 @@
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2020-05-31 19:36:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2020-06-21 22:36:13 -0400"
     },
     "done": true
   },
@@ -1684,6 +1702,7 @@
     "criteria": {
       "cooked_porkchop": "2020-06-08 22:29:56 -0400",
       "chicken": "2020-06-16 20:45:40 -0400",
+      "cooked_beef": "2020-06-27 21:41:30 -0400",
       "baked_potato": "2020-06-01 19:09:29 -0400",
       "apple": "2020-05-30 17:14:07 -0400",
       "potato": "2020-06-01 18:13:10 -0400",
@@ -1798,6 +1817,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-06-21 20:36:43 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2020-05-30 17:17:21 -0400"
@@ -1838,6 +1863,12 @@
     "criteria": {
       "has_blue_dye": "2020-06-16 20:30:33 -0400",
       "has_rose_red": "2020-06-16 20:30:33 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-06-21 20:36:43 -0400"
     },
     "done": true
   },
@@ -1897,7 +1928,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:pig": "2020-06-01 15:32:03 -0400"
+      "minecraft:pig": "2020-06-01 15:32:03 -0400",
+      "minecraft:cow": "2020-06-21 22:35:34 -0400"
     },
     "done": false
   },
@@ -2267,6 +2299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-06-21 20:36:43 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2020-05-30 16:44:47 -0400"
@@ -2420,6 +2458,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2020-05-30 16:50:41 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-06-21 20:36:43 -0400"
     },
     "done": true
   },
@@ -2616,6 +2660,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2020-06-21 22:36:13 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2020-05-30 17:14:56 -0400"
@@ -2772,6 +2822,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2020-06-21 22:36:13 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2020-06-17 18:19:02 -0400"
@@ -2793,6 +2849,12 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2020-06-01 18:22:25 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-06-21 20:36:43 -0400"
     },
     "done": true
   },

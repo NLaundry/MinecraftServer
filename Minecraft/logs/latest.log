@@ -1,133 +1,14 @@
-[10:22:55] [User Authenticator #4/INFO]: UUID of player KILLROYIII is 8224ac11-50ac-4d64-a4fe-f291e6ce8e17
-[10:22:55] [Server thread/INFO]: KILLROYIII[/174.117.47.174:51121] logged in with entity id 37020 at (-925.0017545547893, 64.0, 115.50350747989263)
-[10:22:55] [Server thread/INFO]: KILLROYIII joined the game
-[10:25:24] [Server thread/INFO]: KILLROYIII lost connection: Disconnected
-[10:25:24] [Server thread/INFO]: KILLROYIII left the game
-[10:45:57] [User Authenticator #5/INFO]: UUID of player KILLROYIII is 8224ac11-50ac-4d64-a4fe-f291e6ce8e17
-[10:45:57] [Server thread/INFO]: KILLROYIII[/174.117.47.174:51302] logged in with entity id 38665 at (-911.3551510273443, 58.0, 116.37588208658656)
-[10:45:57] [Server thread/INFO]: KILLROYIII joined the game
-[10:46:15] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/39883, l='world', x=-949.22, y=67.00, z=184.50]
-[10:52:12] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/41492, l='world', x=-950.58, y=67.00, z=184.87]
-[10:52:59] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/41647, l='world', x=-950.82, y=67.00, z=181.83]
-[10:53:08] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/41682, l='world', x=-950.51, y=67.00, z=185.23]
-[10:54:13] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/41955, l='world', x=-944.83, y=67.00, z=186.17]
-[10:55:36] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/42269, l='world', x=-951.17, y=67.00, z=184.07]
-[10:56:27] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/43480, l='world', x=-1127.13, y=70.00, z=-213.12]
-[10:57:51] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/44672, l='world', x=-945.67, y=67.00, z=184.44]
-[10:58:13] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/44765, l='world', x=-947.51, y=67.00, z=186.17]
-[10:58:55] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/44918, l='world', x=-951.17, y=67.00, z=184.46]
-[10:59:09] [Server thread/INFO]: KILLROYIII lost connection: Disconnected
-[10:59:09] [Server thread/INFO]: KILLROYIII left the game
-[18:07:20] [User Authenticator #6/INFO]: UUID of player Colonel_Pinapple is ec8a1260-125d-4e41-8202-49676dbe85c6
-[18:07:20] [Server thread/INFO]: Colonel_Pinapple[/206.174.176.151:55570] logged in with entity id 44967 at (-800.1779291300668, 65.0, -251.39806051957868)
-[18:07:20] [Server thread/INFO]: Colonel_Pinapple joined the game
-[18:12:20] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-739, y=134, z=-338} fk{x=-739, y=133, z=-337}
-[18:12:20] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-739, y=134, z=-338} fk{x=-739, y=133, z=-337}
-[18:12:20] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-739, y=134, z=-338} fk{x=-739, y=133, z=-337}
-[18:12:20] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-739, y=134, z=-338} fk{x=-739, y=133, z=-337}
-[18:12:24] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-737, y=136, z=-340} fk{x=-737, y=135, z=-339}
-[18:12:24] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-737, y=136, z=-340} fk{x=-737, y=135, z=-339}
-[18:12:24] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-737, y=136, z=-340} fk{x=-737, y=135, z=-339}
-[18:12:24] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-737, y=136, z=-340} fk{x=-737, y=135, z=-339}
-[18:12:24] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-737, y=136, z=-340} fk{x=-737, y=135, z=-339}
-[18:12:24] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-737, y=136, z=-340} fk{x=-737, y=135, z=-339}
-[18:12:24] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-737, y=136, z=-340} fk{x=-737, y=135, z=-339}
-[18:22:26] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/49711, l='world', x=-807.83, y=64.00, z=-221.00]
-[18:24:19] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/50098, l='world', x=-808.82, y=64.00, z=-222.74]
-[18:25:47] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/50372, l='world', x=-809.10, y=64.00, z=-219.88]
-[18:54:36] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/57116, l='world', x=-812.21, y=64.00, z=-226.76]
-[18:55:49] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/57321, l='world', x=-813.14, y=64.00, z=-219.27]
-[19:06:39] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/59694, l='world', x=-809.10, y=64.00, z=-219.88]
-[19:06:45] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/59714, l='world', x=-812.21, y=64.00, z=-221.49]
-[19:20:20] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/62714, l='world', x=-812.68, y=64.00, z=-219.71]
-[19:23:16] [Server thread/INFO]: Colonel_Pinapple lost connection: Disconnected
-[19:23:16] [Server thread/INFO]: Colonel_Pinapple left the game
-[19:27:25] [User Authenticator #7/INFO]: UUID of player Colonel_Pinapple is ec8a1260-125d-4e41-8202-49676dbe85c6
-[19:27:25] [Server thread/INFO]: Colonel_Pinapple[/206.174.176.151:54857] logged in with entity id 63328 at (-638.1399777159147, 63.0, -321.30000001192093)
-[19:27:25] [Server thread/INFO]: Colonel_Pinapple joined the game
-[19:35:23] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/66491, l='world', x=-745.44, y=94.00, z=-173.94]
-[19:43:16] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/68296, l='world', x=-811.97, y=64.00, z=-221.08]
-[20:04:19] [Server thread/INFO]: Colonel_Pinapple lost connection: Disconnected
-[20:04:19] [Server thread/INFO]: Colonel_Pinapple left the game
-[20:50:15] [User Authenticator #8/INFO]: UUID of player Colonel_Pinapple is ec8a1260-125d-4e41-8202-49676dbe85c6
-[20:50:15] [Server thread/INFO]: Colonel_Pinapple[/206.174.176.151:55599] logged in with entity id 73085 at (-706.1130820593534, 161.0, -296.9111430422086)
-[20:50:15] [Server thread/INFO]: Colonel_Pinapple joined the game
-[20:59:08] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/75829, l='world', x=-815.42, y=64.00, z=-227.42]
-[21:02:42] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/76627, l='world', x=-814.75, y=64.00, z=-219.23]
-[21:02:48] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/76646, l='world', x=-809.52, y=64.00, z=-225.80]
-[21:04:29] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/77059, l='world', x=-745.05, y=94.00, z=-170.32]
-[21:20:45] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/84298, l='world', x=-814.25, y=64.00, z=-223.43]
-[21:24:53] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/85231, l='world', x=-812.53, y=64.00, z=-227.17]
-[21:27:19] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/85756, l='world', x=-814.76, y=64.00, z=-220.92]
-[21:28:13] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/85913, l='world', x=-815.17, y=64.00, z=-222.59]
-[21:28:34] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/85968, l='world', x=-807.83, y=64.00, z=-219.32]
-[21:29:32] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/86198, l='world', x=-815.17, y=64.00, z=-220.19]
-[21:36:02] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/90509, l='world', x=-745.22, y=94.00, z=-173.28]
-[21:36:04] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/90535, l='world', x=-748.22, y=94.00, z=-174.87]
-[21:38:53] [Server thread/INFO]: Colonel_Pinapple lost connection: Disconnected
-[21:38:53] [Server thread/INFO]: Colonel_Pinapple left the game
-[21:47:04] [User Authenticator #9/INFO]: UUID of player Colonel_Pinapple is ec8a1260-125d-4e41-8202-49676dbe85c6
-[21:47:04] [Server thread/INFO]: Colonel_Pinapple[/206.174.176.151:56190] logged in with entity id 92275 at (-703.6625015141612, 161.0, -281.56431494110154)
-[21:47:04] [Server thread/INFO]: Colonel_Pinapple joined the game
-[21:52:28] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/96161, l='world', x=-807.83, y=64.00, z=-225.54]
-[22:06:06] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/100617, l='world', x=-748.75, y=94.00, z=-173.80]
-[22:12:39] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/102071, l='world', x=-809.17, y=64.00, z=-224.65]
-[22:23:10] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/104177, l='world', x=-808.48, y=64.00, z=-223.55]
-[22:24:49] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/104626, l='world', x=-749.17, y=94.00, z=-175.17]
-[22:25:16] [Server thread/INFO]: Colonel_Pinapple lost connection: Disconnected
-[22:25:16] [Server thread/INFO]: Colonel_Pinapple left the game
-[22:27:25] [User Authenticator #10/INFO]: Disconnecting com.mojang.authlib.GameProfile@54e03d22[id=<null>,name=Colonel_Pinapple,properties={},legacy=false] (/206.174.176.151:54883): Authentication servers are down. Please try again later, sorry!
-[22:27:25] [User Authenticator #10/ERROR]: Couldn't verify username because servers are unavailable
-[22:27:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@54e03d22[id=<null>,name=Colonel_Pinapple,properties={},legacy=false] (/206.174.176.151:54883) lost connection: Authentication servers are down. Please try again later, sorry!
-[22:27:29] [User Authenticator #11/INFO]: Disconnecting com.mojang.authlib.GameProfile@56e940d7[id=<null>,name=Colonel_Pinapple,properties={},legacy=false] (/206.174.176.151:54890): Authentication servers are down. Please try again later, sorry!
-[22:27:29] [User Authenticator #11/ERROR]: Couldn't verify username because servers are unavailable
-[22:27:29] [Server thread/INFO]: com.mojang.authlib.GameProfile@56e940d7[id=<null>,name=Colonel_Pinapple,properties={},legacy=false] (/206.174.176.151:54890) lost connection: Authentication servers are down. Please try again later, sorry!
-[22:28:10] [User Authenticator #12/INFO]: UUID of player Colonel_Pinapple is ec8a1260-125d-4e41-8202-49676dbe85c6
-[22:28:10] [Server thread/INFO]: Colonel_Pinapple[/206.174.176.151:1358] logged in with entity id 104886 at (-743.8834084607595, 143.5, -321.90494317443193)
-[22:28:10] [Server thread/INFO]: Colonel_Pinapple joined the game
-[22:42:27] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/109393, l='world', x=-811.88, y=64.00, z=-221.57]
-[22:42:53] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/109467, l='world', x=-809.60, y=64.00, z=-227.16]
-[22:57:16] [Server thread/INFO]: Colonel_Pinapple lost connection: Disconnected
-[22:57:16] [Server thread/INFO]: Colonel_Pinapple left the game
-[22:59:21] [User Authenticator #13/INFO]: UUID of player Colonel_Pinapple is ec8a1260-125d-4e41-8202-49676dbe85c6
-[22:59:21] [Server thread/INFO]: Colonel_Pinapple[/206.174.176.151:55210] logged in with entity id 112234 at (-702.6258738510393, 161.0, -282.6398704538401)
-[22:59:21] [Server thread/INFO]: Colonel_Pinapple joined the game
-[23:13:44] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/115761, l='world', x=-808.96, y=64.00, z=-226.25]
-[23:14:39] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/115968, l='world', x=-809.15, y=64.00, z=-226.65]
-[23:14:45] [Server thread/INFO]: Colonel_Pinapple lost connection: Disconnected
-[23:14:45] [Server thread/INFO]: Colonel_Pinapple left the game
-[23:21:37] [User Authenticator #14/INFO]: UUID of player KILLROYIII is 8224ac11-50ac-4d64-a4fe-f291e6ce8e17
-[23:21:37] [Server thread/INFO]: KILLROYIII[/174.117.47.174:51431] logged in with entity id 115988 at (-928.4947047766034, 81.0, 145.54022639849137)
-[23:21:37] [Server thread/INFO]: KILLROYIII joined the game
-[23:24:29] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/117698, l='world', x=-950.19, y=67.00, z=182.76]
-[23:24:31] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/117705, l='world', x=-950.75, y=67.00, z=183.61]
-[23:24:33] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/117728, l='world', x=-945.12, y=67.00, z=183.10]
-[23:26:37] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/119125, l='world', x=-748.76, y=94.00, z=-171.22]
-[23:26:55] [Server thread/INFO]: KILLROYIII lost connection: Disconnected
-[23:26:55] [Server thread/INFO]: KILLROYIII left the game
-[23:29:10] [User Authenticator #15/INFO]: UUID of player KILLROYIII is 8224ac11-50ac-4d64-a4fe-f291e6ce8e17
-[23:29:10] [Server thread/INFO]: KILLROYIII[/174.117.47.174:51485] logged in with entity id 119320 at (-731.0014739701653, 93.0, -161.38194561835934)
-[23:29:10] [Server thread/INFO]: KILLROYIII joined the game
-[23:31:42] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/122003, l='world', x=-946.28, y=67.00, z=181.83]
-[23:32:18] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/122135, l='world', x=-946.61, y=67.00, z=184.40]
-[23:32:52] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/122259, l='world', x=-950.33, y=67.00, z=182.18]
-[23:33:44] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/122460, l='world', x=-948.13, y=67.00, z=184.82]
-[23:34:10] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/122544, l='world', x=-946.10, y=67.00, z=183.88]
-[23:34:51] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/122663, l='world', x=-951.17, y=67.00, z=182.77]
-[23:38:50] [Server thread/INFO]: There are 1 of a max 20 players online: KILLROYIII
-[23:40:06] [Server thread/INFO]: There are 1 of a max 20 players online: KILLROYIII
-[23:40:32] [Server thread/INFO]: KILLROYIII lost connection: Disconnected
-[23:40:32] [Server thread/INFO]: KILLROYIII left the game
-[23:40:41] [Server thread/INFO]: Stopping the server
-[23:40:41] [Server thread/INFO]: Stopping server
-[23:40:41] [Server thread/INFO]: Saving players
-[23:40:41] [Server thread/INFO]: Saving worlds
-[23:40:41] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[23:40:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:40:41] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[23:40:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:40:41] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[23:40:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:40:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:40:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:40:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:29:33] [Server thread/INFO]: There are 0 of a max 20 players online: 
+[11:29:39] [Server thread/INFO]: Stopping the server
+[11:29:39] [Server thread/INFO]: Stopping server
+[11:29:39] [Server thread/INFO]: Saving players
+[11:29:39] [Server thread/INFO]: Saving worlds
+[11:29:39] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[11:29:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:29:39] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[11:29:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:29:39] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[11:29:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:29:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:29:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:29:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
