@@ -1,14 +1,5 @@
-[11:29:33] [Server thread/INFO]: There are 0 of a max 20 players online: 
-[11:29:39] [Server thread/INFO]: Stopping the server
-[11:29:39] [Server thread/INFO]: Stopping server
-[11:29:39] [Server thread/INFO]: Saving players
-[11:29:39] [Server thread/INFO]: Saving worlds
-[11:29:39] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[11:29:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[11:29:39] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[11:29:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[11:29:39] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[11:29:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[11:29:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[11:29:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[11:29:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:14:41] [User Authenticator #1/INFO]: UUID of player Colonel_Pinapple is ec8a1260-125d-4e41-8202-49676dbe85c6
+[20:14:41] [Server thread/INFO]: Colonel_Pinapple[/206.174.176.151:49886] logged in with entity id 274 at (-746.7103385808309, 133.0, -339.9748616258211)
+[20:14:41] [Server thread/INFO]: Colonel_Pinapple joined the game
+[20:25:12] [Server thread/INFO]: Colonel_Pinapple lost connection: Disconnected
+[20:25:12] [Server thread/INFO]: Colonel_Pinapple left the game

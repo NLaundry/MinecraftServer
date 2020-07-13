@@ -586,6 +586,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2020-06-30 20:21:42 -0400",
       "minecraft:skeleton": "2020-05-30 16:51:58 -0400",
       "minecraft:magma_cube": "2020-05-31 01:43:31 -0400",
       "minecraft:spider": "2020-05-30 20:45:12 -0400",
