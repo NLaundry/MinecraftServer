@@ -1194,6 +1194,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2020-07-14 02:52:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2020-05-25 18:53:00 +0000"
@@ -1725,6 +1731,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2020-07-14 02:03:13 +0000",
+      "minecraft:soul_sand_valley": "2020-07-14 02:49:37 +0000",
       "minecraft:basalt_deltas": "2020-07-14 02:22:50 +0000"
     },
     "done": false
