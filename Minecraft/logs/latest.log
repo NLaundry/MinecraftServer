@@ -1,71 +1,40 @@
-[01:51:45] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[01:51:46] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:51:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:51:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:51:46] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:51:46] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:51:46] [main/INFO]: Reloading ResourceManager: Default
-[01:51:46] [Worker-Main-14/INFO]: Loaded 7 recipes
-[01:51:47] [Worker-Main-14/INFO]: Loaded 927 advancements
-[01:51:48] [Server thread/INFO]: Starting minecraft server version 1.16.1
-[01:51:48] [Server thread/INFO]: Loading properties
-[01:51:48] [Server thread/INFO]: Default game type: SURVIVAL
-[01:51:48] [Server thread/INFO]: Generating keypair
-[01:51:48] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:51:48] [Server thread/INFO]: Using epoll channel type
-[01:51:48] [Server thread/INFO]: Preparing level "world"
-[01:51:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:51:56] [Server thread/INFO]: Preparing spawn area: 0%
-[01:51:56] [Server thread/INFO]: Preparing spawn area: 0%
-[01:51:56] [Server thread/INFO]: Preparing spawn area: 0%
-[01:51:56] [Server thread/INFO]: Preparing spawn area: 0%
-[01:51:56] [Server thread/INFO]: Preparing spawn area: 0%
-[01:51:56] [Server thread/INFO]: Preparing spawn area: 0%
-[01:51:56] [Server thread/INFO]: Preparing spawn area: 0%
-[01:51:56] [Server thread/INFO]: Preparing spawn area: 0%
-[01:51:56] [Server thread/INFO]: Preparing spawn area: 0%
-[01:51:56] [Server thread/INFO]: Preparing spawn area: 0%
-[01:51:56] [Server thread/INFO]: Preparing spawn area: 0%
-[01:51:56] [Server thread/INFO]: Preparing spawn area: 0%
-[01:51:56] [Server thread/INFO]: Preparing spawn area: 0%
-[01:51:56] [Server thread/INFO]: Preparing spawn area: 0%
-[01:51:56] [Server thread/INFO]: Preparing spawn area: 0%
-[01:51:56] [Server thread/INFO]: Preparing spawn area: 0%
-[01:51:56] [Server thread/INFO]: Preparing spawn area: 72%
-[01:51:56] [Server thread/INFO]: Time elapsed: 8301 ms
-[01:51:56] [Server thread/INFO]: Done (8.423s)! For help, type "help"
-[01:55:09] [User Authenticator #1/INFO]: UUID of player ThrockmortonXD is 19c25fe7-7be4-481f-8aea-d4abc210e969
-[01:55:09] [Server thread/INFO]: ThrockmortonXD[/99.225.193.61:58874] logged in with entity id 274 at (-1111.700000025332, 74.0000002, -181.70000002533197)
-[01:55:09] [Server thread/INFO]: ThrockmortonXD joined the game
-[01:55:41] [User Authenticator #2/INFO]: UUID of player kxanxc is fc95f6fe-e3cb-4120-a357-06f758950e52
-[01:55:41] [Server thread/INFO]: kxanxc[/70.29.41.225:60650] logged in with entity id 737 at (-825.0905539910186, 71.0, 10.871344159697777)
-[01:55:41] [Server thread/INFO]: kxanxc joined the game
-[01:55:41] [Server thread/ERROR]: No key position_predicate in MapLike[{location_predicate:{predicate_type:"minecraft:always_true"},output_state:{Properties:{age:"0"},Name:"minecraft:melon_stem"},input_predicate:{predicate_type:"minecraft:random_block_match",probability:0.1f,block:"minecraft:wheat"}}]; No key position_predicate in MapLike[{location_predicate:{predicate_type:"minecraft:always_true"},output_state:{Properties:{age:"0"},Name:"minecraft:beetroots"},input_predicate:{predicate_type:"minecraft:random_block_match",probability:0.2f,block:"minecraft:wheat"}}]
-[01:55:41] [Server thread/ERROR]: No key position_predicate in MapLike[{location_predicate:{predicate_type:"minecraft:always_true"},output_state:{Properties:{age:"0"},Name:"minecraft:melon_stem"},input_predicate:{predicate_type:"minecraft:random_block_match",probability:0.1f,block:"minecraft:wheat"}}]; No key position_predicate in MapLike[{location_predicate:{predicate_type:"minecraft:always_true"},output_state:{Properties:{age:"0"},Name:"minecraft:beetroots"},input_predicate:{predicate_type:"minecraft:random_block_match",probability:0.2f,block:"minecraft:wheat"}}]
-[01:55:41] [Server thread/ERROR]: No key position_predicate in MapLike[{location_predicate:{predicate_type:"minecraft:always_true"},output_state:{Properties:{age:"0"},Name:"minecraft:melon_stem"},input_predicate:{predicate_type:"minecraft:random_block_match",probability:0.1f,block:"minecraft:wheat"}}]; No key position_predicate in MapLike[{location_predicate:{predicate_type:"minecraft:always_true"},output_state:{Properties:{age:"0"},Name:"minecraft:beetroots"},input_predicate:{predicate_type:"minecraft:random_block_match",probability:0.2f,block:"minecraft:wheat"}}]
-[01:56:02] [User Authenticator #3/INFO]: UUID of player MCCreep is bf286c91-8e59-469f-b1db-7783f7c9cfbc
-[01:56:02] [Server thread/INFO]: MCCreep[/99.226.245.150:64415] logged in with entity id 1797 at (-819.468055520776, 12.0, 391.6827672446475)
-[01:56:02] [Server thread/INFO]: MCCreep joined the game
-[01:56:37] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/3219, l='ServerLevel[world]', x=-746.43, y=94.00, z=-172.26]
-[01:56:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2832ms or 56 ticks behind
-[01:57:31] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/3779, l='ServerLevel[world]', x=-743.83, y=94.00, z=-173.91]
-[01:57:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[01:57:54] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/4005, l='ServerLevel[world]', x=-1127.51, y=70.00, z=-215.94]
-[01:58:00] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/4090, l='ServerLevel[world]', x=-947.52, y=67.00, z=183.73]
-[01:58:09] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/4178, l='ServerLevel[world]', x=-745.32, y=94.00, z=-171.03]
-[01:58:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[01:59:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[01:59:23] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/4923, l='ServerLevel[world]', x=-747.34, y=94.00, z=-170.18]
-[01:59:29] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/4970, l='ServerLevel[world]', x=-745.35, y=94.00, z=-170.89]
-[02:00:22] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/5343, l='ServerLevel[world]', x=-809.11, y=64.00, z=-220.22]
-[02:00:36] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/5446, l='ServerLevel[world]', x=-951.17, y=67.00, z=185.42]
-[02:01:36] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/6032, l='ServerLevel[world]', x=-810.80, y=64.00, z=-221.45]
-[02:05:30] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/7968, l='ServerLevel[world]', x=-945.30, y=67.00, z=184.78]
-[02:05:30] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/7968, l='ServerLevel[world]', x=-945.30, y=67.00, z=184.78]
-[02:05:54] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/8165, l='ServerLevel[world]', x=-947.38, y=67.00, z=183.24]
-[02:05:54] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/8165, l='ServerLevel[world]', x=-947.38, y=67.00, z=183.24]
-[02:06:47] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/8499, l='ServerLevel[world]', x=-946.20, y=67.00, z=182.37]
-[02:06:47] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/8499, l='ServerLevel[world]', x=-946.20, y=67.00, z=182.37]
-[02:08:52] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/9989, l='ServerLevel[world]', x=-950.75, y=67.00, z=183.63]
-[02:09:46] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/10469, l='ServerLevel[world]', x=-945.32, y=67.00, z=182.81]
-[02:11:36] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/11477, l='ServerLevel[world]', x=-950.53, y=67.00, z=185.63]
+[02:22:25] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[02:22:26] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:22:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:22:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:22:26] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:22:26] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:22:26] [main/INFO]: Reloading ResourceManager: Default
+[02:22:26] [Worker-Main-11/INFO]: Loaded 7 recipes
+[02:22:27] [Worker-Main-11/INFO]: Loaded 927 advancements
+[02:22:28] [Server thread/INFO]: Starting minecraft server version 1.16.1
+[02:22:28] [Server thread/INFO]: Loading properties
+[02:22:28] [Server thread/INFO]: Default game type: SURVIVAL
+[02:22:28] [Server thread/INFO]: Generating keypair
+[02:22:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:22:28] [Server thread/INFO]: Using epoll channel type
+[02:22:28] [Server thread/INFO]: Preparing level "world"
+[02:22:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:22:29] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:29] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:29] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:32] [User Authenticator #1/INFO]: UUID of player kxanxc is fc95f6fe-e3cb-4120-a357-06f758950e52
+[02:22:33] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:33] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:33] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:33] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:33] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:33] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:33] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:33] [Worker-Main-13/INFO]: Preparing spawn area: 83%
+[02:22:33] [Server thread/INFO]: Time elapsed: 5341 ms
+[02:22:33] [Server thread/INFO]: Done (5.483s)! For help, type "help"
+[02:22:34] [Server thread/INFO]: kxanxc[/70.29.41.225:60690] logged in with entity id 275 at (1875.5, 64.0000002, 4672.5)
+[02:22:34] [Server thread/INFO]: kxanxc joined the game
+[02:22:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[02:22:41] [User Authenticator #2/INFO]: UUID of player ThrockmortonXD is 19c25fe7-7be4-481f-8aea-d4abc210e969
+[02:22:41] [Server thread/INFO]: ThrockmortonXD[/99.225.193.61:59681] logged in with entity id 498 at (1870.5, 64.0000002, 15728.5)
+[02:22:41] [Server thread/INFO]: ThrockmortonXD joined the game
+[02:23:31] [User Authenticator #3/INFO]: UUID of player MCCreep is bf286c91-8e59-469f-b1db-7783f7c9cfbc
+[02:23:31] [Server thread/INFO]: MCCreep[/99.226.245.150:65139] logged in with entity id 1160 at (-944.2781410030152, 68.0, 249.6631990978866)
+[02:23:31] [Server thread/INFO]: MCCreep joined the game
