@@ -1850,6 +1850,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2020-07-14 02:57:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_black_dye": "2020-05-27 01:09:29 +0000"
@@ -2172,6 +2178,7 @@
     "criteria": {
       "cooked_porkchop": "2020-05-26 07:03:28 +0000",
       "cooked_mutton": "2020-05-25 18:46:06 +0000",
+      "sweet_berries": "2020-07-14 03:29:22 +0000",
       "cooked_beef": "2020-05-26 07:17:11 +0000",
       "baked_potato": "2020-05-27 21:53:17 +0000",
       "potato": "2020-05-29 21:21:46 +0000",
@@ -2963,6 +2970,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2020-05-25 18:38:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2020-07-14 03:30:20 +0000"
     },
     "done": true
   },
