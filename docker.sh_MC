@@ -1,0 +1,1 @@
+docker run -it -p 25565:25565 -e ALLOW_FLIGHT=TRUE -e MEMORY=3G -e EULA=TRUE --name mc -v /home/nathan/MinecraftServer/Minecraft:/data itzg/minecraft-server:latest
